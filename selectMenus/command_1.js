@@ -24,9 +24,9 @@ module.exports = {
         name: 'command_1'
     },
     async execute(interaction, client) {
-        const character = data[interaction.values[0]]
+        const msg = data[interaction.values[0]]
         await interaction.reply({
-            content: character,
+            content: msg,
             ephemeral: true,
         })
     }
