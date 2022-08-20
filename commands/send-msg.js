@@ -13,17 +13,18 @@ module.exports = {
         ),
     async execute(interaction, client) {
         try {
-            const channel = await client.channels.fetch(interaction.channelId)
+            if(util.checkRole(interaction, interaction.member._roles)){
+                const channel = await client.channels.fetch(interaction.channelId)
 
-            await interaction.deferReply()
+                await interaction.deferReply()
 
-            await channel.send({
-                content: interaction.options.getString("message"),
-                ephemeral: false,
-            })
+                await channel.send({
+                    content: interaction.options.getString("message"),
+                    ephemeral: false,
+                })
 
-            await interaction.deleteReply()
-            
+                await interaction.deleteReply()
+            }
         } catch (error) {
             util.showErrorReply(interaction, error)
         }
