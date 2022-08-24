@@ -87,13 +87,25 @@ module.exports = {
                             {
                                 "label": `雙星之紅 安絲蒂 ★★★ (限定)`,
                                 "value": `q-asida`,
-                                "description": `Q.Asida 2022-07-13`,
+                                "description": `Q.Asida 2022-08-03`,
                                 "default": false
                             },
                             {
                                 "label": `銀河之藍 安絲娜 ★★★ (限定)`,
                                 "value": `q-asina`,
-                                "description": `Q-Asina 2022-07-13`,
+                                "description": `Q-Asina 2022-08-03`,
+                                "default": false
+                            },
+                            {
+                                "label": `傳說女僕 艾蜜莉 ★★★`,
+                                "value": `emily`,
+                                "description": `Emily 2022-08-24`,
+                                "default": false
+                            },
+                            {
+                                "label": `千咒魔女 安西莉卡 ★★★`,
+                                "value": `anjelica`,
+                                "description": `Anjelica 2022-08-24`,
                                 "default": false
                             }
                         ])

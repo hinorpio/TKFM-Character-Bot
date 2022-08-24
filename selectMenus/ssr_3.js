@@ -638,6 +638,104 @@ const data = {
             "width": 0
         }
     },
+    'emily': {
+        "type": "rich",
+        "title": `傳說女僕 艾蜜莉`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_supporter:933339516788408420>`,
+        "color": 0xEFB26B,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定 (6潛)`,
+                "value": `使自身`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 免疫 (12潛)`,
+                "value": `使自身免疫 `
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1010770415209152574.webp?size=128&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
+    'anjelica': {
+        "type": "rich",
+        "title": `千咒魔女 安西莉卡 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_dark:933339859559530506> <:class_attacker:933339400916578344>`,
+        "color": 0xC390FF,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定`,
+                "value": `待定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待定 (6潛)`,
+                "value": `使自身`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 免疫 (12潛)`,
+                "value": `使自身免疫 `
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1010770215145066547.webp?size=128&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
 }
 
 const nanaScriptList = [
