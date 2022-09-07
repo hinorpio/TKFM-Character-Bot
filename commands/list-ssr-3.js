@@ -107,6 +107,18 @@ module.exports = {
                                 "value": `anjelica`,
                                 "description": `Anjelica 2022-08-24`,
                                 "default": false
+                            },
+                            {
+                                "label": `適格者 娜娜 ★★★ (限定)`,
+                                "value": `c1-nana`,
+                                "description": `C1.Nana 2022-09-07`,
+                                "default": false
+                            },
+                            {
+                                "label": `未知生命體 基貝魯 ★★★ (限定)`,
+                                "value": `geneva`,
+                                "description": `Geneva 2022-09-07`,
+                                "default": false
                             }
                         ])
                 )

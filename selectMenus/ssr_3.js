@@ -736,6 +736,104 @@ const data = {
             "width": 0
         }
     },
+    'c1-nana': {
+        "type": "rich",
+        "title": `適格者 娜娜 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_attacker:933339400916578344>`,
+        "color": 0xEFB26B,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> + (6潛)`,
+                "value": `使自身-增加10%`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 免疫 (12潛)`,
+                "value": `使自身免疫`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1016388788169232525.webp?size=128&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
+    'geneva': {
+        "type": "rich",
+        "title": `未知生命體 基貝魯 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_dark:933339859559530506> <:class_attacker:933339400916578344>`,
+        "color": 0xC390FF,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> + (6潛)`,
+                "value": `使自身-增加10%`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 免疫 (12潛)`,
+                "value": `使自身免疫`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1015476554970710107.webp?size=128&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
 }
 
 const nanaScriptList = [
