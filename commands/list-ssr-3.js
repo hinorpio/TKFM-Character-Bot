@@ -119,7 +119,13 @@ module.exports = {
                                 "value": `geneva`,
                                 "description": `Geneva 2022-09-07`,
                                 "default": false
-                            }
+                            },
+                            {
+                                "label": `元氣補給 蓮 ★★★`,
+                                "value": `lotus`,
+                                "description": `Lotus 2022-09-29`,
+                                "default": false
+                            },
                         ])
                 )
 
