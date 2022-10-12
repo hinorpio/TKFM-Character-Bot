@@ -126,6 +126,12 @@ module.exports = {
                                 "description": `Lotus 2022-09-29`,
                                 "default": false
                             },
+                            {
+                                "label": `夜星 狄 ★★★`,
+                                "value": `didi`,
+                                "description": `Didi 2022-10-12`,
+                                "default": false
+                            }
                         ])
                 )
 

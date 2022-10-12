@@ -687,6 +687,55 @@ const data = {
             "width": 0
         }
     },
+    'yingying': {
+        "type": "rich",
+        "title": `公會看板娘 小螢 ★★`,
+        "description": `<:rarity_sr:933339169105772585> <:element_water:933339803087421523> <:class_healer:933339563127078922>`,
+        "color": 0x48B4EB,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：待補 | ATK：待補`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> 待補`,
+                "value": `待補`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> 待補`,
+                "value": `待補`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> 待補`,
+                "value": `待補`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待補`,
+                "value": `待補`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待補`,
+                "value": `待補`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待補`,
+                "value": `待補`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 待補+ (6潛)`,
+                "value": `使自身受到 待補`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 免疫 待補 (12潛)`,
+                "value": `使自身免疫 待補`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1029055774149849238.webp?size=128&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
 }
 
 const nanaScriptList = [

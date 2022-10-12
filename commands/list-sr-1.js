@@ -102,6 +102,12 @@ module.exports = {
                                 "description": `Tanocia 2022-05-11`,
                                 "default": false
                             },
+                            {
+                                "label": `公會看板娘 小螢 ★★`,
+                                "value": `yingying`,
+                                "description": `YingYing 2022-10-12`,
+                                "default": false
+                            }
                         ])
                 )
 
