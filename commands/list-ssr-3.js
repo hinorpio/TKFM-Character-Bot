@@ -131,7 +131,25 @@ module.exports = {
                                 "value": `didi`,
                                 "description": `Didi 2022-10-12`,
                                 "default": false
-                            }
+                            },
+                            {
+                                "label": `夜星 狄 ★★★`,
+                                "value": `didi`,
+                                "description": `Didi 2022-10-12`,
+                                "default": false
+                            },
+                            {
+                                "label": `見習聖騎士 雷歐娜 ★★★`,
+                                "value": `h.leona`,
+                                "description": `H.Leona 2022-10-26`,
+                                "default": false
+                            },
+                            {
+                                "label": `鮮血魔王 洛緹亞 ★★★`,
+                                "value": `h.lotiya`,
+                                "description": `H.Lotiya 2022-10-26`,
+                                "default": false
+                            },
                         ])
                 )
 
