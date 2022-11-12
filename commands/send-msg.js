@@ -10,11 +10,22 @@ module.exports = {
                 .setName("message")
                 .setDescription('訊息')
                 .setRequired(true),
+        )
+        .addStringOption((option) => 
+            option
+                .setName("channel_id")
+                .setDescription('頻道ID')
+                .setRequired(false),
         ),
     async execute(interaction, client) {
         try {
             if(util.checkRole(interaction, interaction.member._roles)){
-                const channel = await client.channels.fetch(interaction.channelId)
+                
+                var channelID = (interaction.options.getString("channel_id") != null)?interaction.options.getString("channel_id").toString() :interaction.channelId
+                const channel = await client.channels.cache.get(channelID)
+
+                if(channel == undefined)
+                    throw "CHANNEL_ERROR"
 
                 await interaction.deferReply()
 

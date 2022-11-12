@@ -1,4 +1,5 @@
 const { EmbedBuilder } = require("@discordjs/builders");
+const randomReply = require('../replyScript/randomReply.json');
 
 const data = {
     'f-caesar': {
@@ -1032,16 +1033,7 @@ const data = {
     },
 }
 
-const nanaScriptList = [
-    "本、本喵不要繼續加班了……",
-    "笨蛋凱撒，快點工作喵！",
-    "會死哦，本喵說不定真的會死喵！",
-    "－－笨蛋凱撒！！！",
-    "本喵完全能想像當初負責照顧你的人有多麼辛苦喵。",
-    "<:nana_simpsons:934456179705409566>"
-  ]
-  
-const nanascript = nanaScriptList[Math.floor(Math.random() * nanaScriptList.length)];
+const nanascript = randomReply[Math.floor(Math.random() * randomReply.length)];
 
 module.exports = {
     data: {

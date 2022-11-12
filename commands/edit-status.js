@@ -1,6 +1,7 @@
 const { SlashCommandBuilder } = require("@discordjs/builders");
 const { ActivityType } = require("discord.js");
 const util = require("../util");
+const codeReply = require('../replyScript/codeReply.json');
 
 const activityList = {
     'GAME': ActivityType.Playing,
@@ -46,7 +47,7 @@ module.exports = {
                 })
     
                 interaction.reply({
-                    content: 'STATUS_UPDATE_SUCCESS - 狀態更新成功',
+                    content: `<@!${interaction.user.id}> ${codeReply["STATUS_UPDATE_SUCCESS"]}`,
                     ephemeral: false,
                 });
             }

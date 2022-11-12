@@ -1,29 +1,13 @@
 const dotenv = require('dotenv');
 dotenv.config()
 
-const fs = require('fs')
 const { Client, GatewayIntentBits, REST, Routes, Collection } = require('discord.js');
+const util = require('./util');
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages] });
 
-const commandFiles = fs.readdirSync("./commands").filter(file => file.endsWith(".js"));
-const commands = []
-client.commands = new Collection();
-
-const selectMenusFiles = fs.readdirSync("./selectMenus").filter(file => file.endsWith(".js"));
-const selectMenus = []
-client.selectMenus = new Collection();
-
-for(const file of commandFiles){
-    const command = require(`./commands/${file}`);
-    commands.push(command.data.toJSON());
-    client.commands.set(command.data.name, command);
-}
-
-for(const file of selectMenusFiles){
-    const selectMenu = require(`./selectMenus/${file}`);
-    selectMenus.push(selectMenu.data.name);
-    client.selectMenus.set(selectMenu.data.name, selectMenu);
-}
+const commands = util.handleComments(client)
+const buttons = util.handleButtons(client)
+const selectMenus = util.handleSelectMenus(client)
 
 client.on('ready', async () => {
     const CLIENT_ID = client.user.id
@@ -51,6 +35,15 @@ client.on('ready', async () => {
     
 });
 
+client.on("messageCreate", (message) => {
+    if (message.author.bot) return false;
+
+    if (message.content.includes("@here") || message.content.includes("@everyone") || message.type == "REPLY") return false;
+
+    if (message.mentions.has(client.user.id)) {
+        message.channel.send(util.mentionReply(message));
+    }
+});
 
 client.on('interactionCreate', async interaction => {
 
@@ -61,7 +54,7 @@ client.on('interactionCreate', async interaction => {
             await command.execute(interaction, client);
         } catch (err) {
             if(err) console.log(err);
-            util.showErrorReply(interaction, error)
+            util.showErrorReply(interaction, err)
         }
     }
 
@@ -72,6 +65,17 @@ client.on('interactionCreate', async interaction => {
             await menu.execute(interaction, client);
         } catch (err) {
             if(err) console.log(err);
+            util.showErrorReply(interaction, err)
+        }
+    }
+
+    else if(interaction.isButton()){
+        const button = client.buttons.get(interaction.customId);
+
+        try {
+            await button.execute(interaction, client);
+        } catch (error) {
+            if(error) console.log(error);
             util.showErrorReply(interaction, error)
         }
     }
