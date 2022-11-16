@@ -134,15 +134,21 @@ module.exports = {
                                 "default": false
                             },
                             {
-                                "label": `見習聖騎士 雷歐娜 ★★★`,
+                                "label": `見習聖騎士 雷歐娜 ★★★ (限定)`,
                                 "value": `h.leona`,
                                 "description": `H.Leona 2022-10-26`,
                                 "default": false
                             },
                             {
-                                "label": `鮮血魔王 洛緹亞 ★★★`,
+                                "label": `鮮血魔王 洛緹亞 ★★★ (限定)`,
                                 "value": `h.lotiya`,
                                 "description": `H.Lotiya 2022-10-26`,
+                                "default": false
+                            },
+                            {
+                                "label": `異國商人 雪蘭瑚 ★★★`,
+                                "value": `sherana`,
+                                "description": `Sherana 2022-11-16`,
                                 "default": false
                             },
                         ])

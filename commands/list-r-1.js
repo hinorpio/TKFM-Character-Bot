@@ -91,6 +91,12 @@ module.exports = {
                                 "description": `Mia 2022-07-13`,
                                 "default": false
                             },
+                            {
+                                "label": `白薔薇 伊艾 ★`,
+                                "value": `iyan`,
+                                "description": `Iyan 2022-11-16`,
+                                "default": false
+                            },
                         ])
                 )
                 
