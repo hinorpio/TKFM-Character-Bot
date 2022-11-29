@@ -151,6 +151,12 @@ module.exports = {
                                 "description": `Sherana 2022-11-16`,
                                 "default": false
                             },
+                            {
+                                "label": `死靈女王 艾莉莎白 ★★★ (限定)`,
+                                "value": `elizabeth`,
+                                "description": `Elizabeth 2022-11-30`,
+                                "default": false
+                            },
                         ])
                 )
                 

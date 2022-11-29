@@ -1080,6 +1080,55 @@ const data = {
             "width": 0
         }
     },
+    'elizabeth': {
+        "type": "rich",
+        "title": `死靈女王 艾莉莎白 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_dark:933339859559530506> <:class_attacker:933339400916578344>`,
+        "color": 0xC390FF,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：特定 | ATK：特定`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> 特定`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> 特定`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> 特定`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 特定`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 特定`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> 特定`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 特定 (6潛)`,
+                "value": `特定`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫 特定 (12潛)`,
+                "value": `使自身免疫 特定`
+            }
+        ],
+        // "thumbnail": {
+        //     "url": `https://cdn.discordapp.com/emojis/1041721872154378381.webp?size=96&quality=lossless`,
+        //     "height": 0,
+        //     "width": 0
+        // }
+    },
 }
 
 const nanascript = randomReply[Math.floor(Math.random() * randomReply.length)];

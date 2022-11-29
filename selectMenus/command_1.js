@@ -16,7 +16,7 @@ const data = {
     "登入自選": "https://i.imgur.com/JibYpIK.jpg",
     "看狀態": 'https://i.imgur.com/k6tiVAq.png',
     "主線卡關": 'https://imgur.com/e6EmPTq https://imgur.com/L8EuJHf \nhttps://imgur.com/4rDWmuu https://imgur.com/vOKoIzB\nhttps://i.imgur.com/ZTzoPZ7.jpg\nhttps://imgur.com/sUeGvGM https://imgur.com/7h1GEHp\nhttps://i.imgur.com/kqOFMjq.jpg',
-    "塔九機制": 'https://home.gamer.com.tw/artwork.php?sn=5373855',
+    "塔機制": 'https://home.gamer.com.tw/artwork.php?sn=5607648',
     "活動資訊": 'https://discord.com/channels/757480103830880256/885785014632075324/966670881323630652'
 }
 module.exports = {

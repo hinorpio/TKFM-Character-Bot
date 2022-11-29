@@ -96,8 +96,8 @@ module.exports = {
                                 "default": false
                             },
                             {
-                                "label": `塔九機制`,
-                                "value": `塔九機制`,
+                                "label": `塔機制`,
+                                "value": `塔機制`,
                                 "default": false
                             },
                             {
