@@ -830,7 +830,7 @@ const data = {
             }
         ],
         "thumbnail": {
-            "url": `https://cdn.discordapp.com/emojis/958441418597208114.webp?size=160&quality=lossless`,
+            "url": `https://cdn.discordapp.com/emojis/1047027074151493662.webp?size=128&quality=lossless`,
             "height": 0,
             "width": 0
         }

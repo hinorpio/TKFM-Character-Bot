@@ -1123,11 +1123,11 @@ const data = {
                 "value": `使自身免疫 特定`
             }
         ],
-        // "thumbnail": {
-        //     "url": `https://cdn.discordapp.com/emojis/1041721872154378381.webp?size=96&quality=lossless`,
-        //     "height": 0,
-        //     "width": 0
-        // }
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1047026097289711726.webp?size=128&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
     },
 }
 
