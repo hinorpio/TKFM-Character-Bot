@@ -585,7 +585,7 @@ const data = {
             }
         ],
         "thumbnail": {
-            "url": `https://cdn.discordapp.com/emojis/918489743291990016.webp?size=96&quality=lossless`,
+            "url": `https://cdn.discordapp.com/emojis/922683600812515378.webp?size=128&quality=lossless`,
             "height": 0,
             "width": 0
         }
@@ -634,7 +634,7 @@ const data = {
             }
         ],
         "thumbnail": {
-            "url": `https://cdn.discordapp.com/emojis/918489851597307954.webp?size=96&quality=lossless`,
+            "url": `https://cdn.discordapp.com/emojis/918509645998485514.webp?size=128&quality=lossless`,
             "height": 0,
             "width": 0
         }
@@ -781,7 +781,7 @@ const data = {
             }
         ],
         "thumbnail": {
-            "url": `https://cdn.discordapp.com/emojis/943378529519816715.webp?size=96&quality=lossless`,
+            "url": `https://cdn.discordapp.com/emojis/943819974739382272.webp?size=128&quality=lossless`,
             "height": 0,
             "width": 0
         }

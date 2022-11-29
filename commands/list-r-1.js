@@ -23,79 +23,131 @@ module.exports = {
                                 "label": `雙蛇軍團護士長 艾琳 ★`,
                                 "value": `irene`,
                                 "description": `Irene 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_irene01",
+                                    id: "862655188141604885"
+                                }
                             },
                             {
                                 "label": `貓妖 娜娜 ★`,
                                 "value": `nana`,
                                 "description": `Nana 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nana05",
+                                    id: "859792644385013780"
+                                }
                             },
                             {
                                 "label": `龍女 伊維絲 ★`,
                                 "value": `iris`,
                                 "description": `Iris 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iris01",
+                                    id: "856202437022711819"
+                                }
                             },
                             {
                                 "label": `犬人族 朵拉 ★`,
                                 "value": `dora`,
                                 "description": `Dora 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "IMG_4759",
+                                    id: "986447466499043338"
+                                }
                             },
                             {
                                 "label": `魅魔 撤芭絲 ★`,
                                 "value": `sable`,
                                 "description": `Sable 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "IMG_4762",
+                                    id: "986447431585640489"
+                                }
                             },
                             {
                                 "label": `美人魚 瑪蓮 ★`,
                                 "value": `marlene`,
                                 "description": `Marlene 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "marlene",
+                                    id: "958308693890437130"
+                                }
                             },
                             {
                                 "label": `流浪魔法師 尤依 ★`,
                                 "value": `yoi`,
                                 "description": `Yoi 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "IMG_4760",
+                                    id: "986447459964317729"
+                                }
                             },
                             {
                                 "label": `暗黑精靈 索拉卡 ★`,
                                 "value": `shiraka`,
                                 "description": `Shiraka 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "IMG_4763",
+                                    id: "986446383613636638"
+                                }
                             },
                             {
                                 "label": `南瓜仙子 帕奈奈 ★ (限定)`,
                                 "value": `panana`,
                                 "description": `Panana 2021-10-27`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_panana03",
+                                    id: "957588087658147880"
+                                }
                             },
                             {
                                 "label": `人馬女僕 蘇菲 ★`,
                                 "value": `sophie`,
                                 "description": `Sophie 2021-12-01`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_Sophie01",
+                                    id: "914060282748342283"
+                                }
                             },
                             {
                                 "label": `冷豔美醫 嘉莉娜 ★`,
                                 "value": `jolina`,
                                 "description": `Jolina 2021-12-01`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_jolina01",
+                                    id: "915842751940141056"
+                                }
                             },
                             {
                                 "label": `怪盜 米雅 ★ (限定)`,
                                 "value": `mia`,
                                 "description": `Mia 2022-07-13`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_mia01",
+                                    id: "996211778126106756"
+                                }
                             },
                             {
                                 "label": `白薔薇 伊艾 ★`,
                                 "value": `iyan`,
                                 "description": `Iyan 2022-11-16`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iyan01",
+                                    id: "1041721973534892072"
+                                }
                             },
                         ])
                 )

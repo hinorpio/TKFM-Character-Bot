@@ -732,7 +732,7 @@ const data = {
             }
         ],
         "thumbnail": {
-            "url": `https://cdn.discordapp.com/emojis/958415179056570498.webp?size=96&quality=lossless`,
+            "url": `https://cdn.discordapp.com/emojis/856202437391548447.webp?size=128&quality=lossless`,
             "height": 0,
             "width": 0
         }

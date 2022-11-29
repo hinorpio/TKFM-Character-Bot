@@ -23,91 +23,151 @@ module.exports = {
                                 "label": `魔管家 艾可 ★★`,
                                 "value": `aiko`,
                                 "description": `Aiko 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ik01",
+                                    id: "856202436162617385"
+                                }
                             },
                             {
                                 "label": `聖騎士長 雷歐娜 ★★`,
                                 "value": `leona`,
                                 "description": `Leona 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_leona01",
+                                    id: "856202438160023582"
+                                }
                             },
                             {
                                 "label": `神官長 菲歐菈 ★★`,
                                 "value": `fiora`,
                                 "description": `Fiora 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_fiora01",
+                                    id: "862655189046788126"
+                                }
                             },
                             {
                                 "label": `女忍者 凜月 ★★`,
                                 "value": `ritsuki`,
                                 "description": `Ritsuki 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ritsuki01",
+                                    id: "856202436838817881"
+                                }
                             },
                             {
                                 "label": `劍聖 神無雪 ★★`,
                                 "value": `minayomi`,
                                 "description": `Minayomi 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_minayomi02",
+                                    id: "895195995644784652"
+                                }
                             },
                             {
                                 "label": `妖狐 靜 ★★`,
                                 "value": `shizuka`,
                                 "description": `Shizuka 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_shizuka02",
+                                    id: "856202436783243275"
+                                }
                             },
                             {
                                 "label": `大將軍 朱諾安 ★★`,
                                 "value": `juneau`,
                                 "description": `Juneau 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_juneau01",
+                                    id: "862655188540063754"
+                                }
                             },
                             {
                                 "label": `天才女軍師 布蘭妮 ★★`,
                                 "value": `britney`,
                                 "description": `Britney 2020-12-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_britney01",
+                                    id: "856202435541991454"
+                                }
                             },
                             {
                                 "label": `史萊姆女王 娜芙菈菈 ★★`,
                                 "value": `nafrala`,
                                 "description": `Nafrala 2021-03-10`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nafrala01",
+                                    id: "856202437035032616"
+                                }
                             },
                             {
                                 "label": `魔法少女 托特拉 ★★`,
                                 "value": `tyrella`,
                                 "description": `Tyrella 2021-07-14`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_tyrella01",
+                                    id: "1030095216113369118"
+                                }
                             },
                             {
                                 "label": `地方媽媽 提爾絲 ★★ (限定)`,
                                 "value": `teresa`,
                                 "description": `Teresa 2021-09-08`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_teresa01",
+                                    id: "885553652545228810"
+                                }
                             },
                             {
                                 "label": `最後的銀龍 普莉希拉 ★★`,
                                 "value": `pulicia`,
                                 "description": `Pulicia 2021-09-29`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_pulicia01",
+                                    id: "892790161023328286"
+                                }
                             },
                             {
                                 "label": `刺針 嘉維爾 ★★`,
                                 "value": `janelle`,
                                 "description": `Janelle 2021-10-13`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_Janelle01",
+                                    id: "898520473485312050"
+                                }
                             },
                             {
                                 "label": `精靈舞者 塔諾西雅 ★★`,
                                 "value": `tanocia`,
                                 "description": `Tanocia 2022-05-11`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_tanocia01",
+                                    id: "971961423594913802"
+                                }
                             },
                             {
                                 "label": `公會看板娘 小螢 ★★`,
                                 "value": `yingying`,
                                 "description": `YingYing 2022-10-12`,
-                                "default": false
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ying01",
+                                    id: "1029055774149849238"
+                                }
                             }
                         ])
                 )

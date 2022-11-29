@@ -1088,7 +1088,7 @@ const data = {
         "fields": [
             {
                 "name": `<:5flower:981031925168865290> 完全體數據`,
-                "value": `HP：特定 | ATK：特定`
+                "value": `HP： - | ATK： -`
             },
             {
                 "name": `<:detail_skill:933339968967933963> 特定`,
