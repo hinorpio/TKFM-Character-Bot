@@ -142,7 +142,7 @@ module.exports = {
                             {
                                 "label": `銀河之藍 安絲娜 ★★★ (限定)`,
                                 "value": `q-asina`,
-                                "description": `Q-Asina 2022-08-03`,
+                                "description": `Q.Asina 2022-08-03`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_asina02",

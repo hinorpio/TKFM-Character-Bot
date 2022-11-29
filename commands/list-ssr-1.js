@@ -155,8 +155,8 @@ module.exports = {
                                 "description": `Daphne 2021-05-12`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_muila01",
-                                    id: "952915736190390272"
+                                    name: "face_daphne01",
+                                    id: "856202436582703156"
                                 }
                             },
                             {
