@@ -75,8 +75,8 @@ module.exports = {
                                 "description": `Marlene 2020-12-14`,
                                 "default": false,
                                 "emoji": {
-                                    name: "marlene",
-                                    id: "958308693890437130"
+                                    name: "face_mermaid01",
+                                    id: "858240484681580584"
                                 }
                             },
                             {
