@@ -25,7 +25,7 @@ module.exports = {
                                 "description": `Shiro 2023-01-04`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_white01",
+                                    name: "face_shiro01",
                                     id: "1058426292967571608"
                                 }
                             },
