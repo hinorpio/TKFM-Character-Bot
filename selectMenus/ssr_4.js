@@ -57,7 +57,7 @@ const nanascript = randomReply[Math.floor(Math.random() * randomReply.length)];
 
 module.exports = {
     data: {
-        name: 'ssr_3'
+        name: 'ssr_4'
     },
     async execute(interaction, client) {
         const character = data[interaction.values[0]]
