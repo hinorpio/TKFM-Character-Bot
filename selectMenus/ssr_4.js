@@ -59,7 +59,7 @@ const data = {
         "fields": [
             {
                 "name": `<:5flower:981031925168865290> 完全體數據`,
-                "value": `HP：待確認 | ATK：待確認`
+                "value": `HP：3,330,469 | ATK：784,453`
             },
             {
                 "name": `<:detail_skill:933339968967933963> 再生之風`,
