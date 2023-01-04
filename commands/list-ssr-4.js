@@ -29,6 +29,16 @@ module.exports = {
                                     id: "1058426292967571608"
                                 }
                             },
+                            {
+                                "label": `賢者 白 ★★★`,
+                                "value": `shiro2`,
+                                "description": `Shiro 2023-01-04`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_shiro01",
+                                    id: "1058426292967571608"
+                                }
+                            },
                         ])
                 )
                 
