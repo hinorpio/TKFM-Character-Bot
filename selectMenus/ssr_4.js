@@ -5,7 +5,7 @@ const data = {
     'shiro': {
         "type": "rich",
         "title": `賢者 白 ★★★`,
-        "description": `<:rarity_ssr:933339183848763412> <:element_wind:933339803653644358>  <:class_healer:933339563127078922>`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_wind:933339803653644358> <:class_healer:933339563127078922>`,
         "color": 0x54BA71,
         "fields": [
             {
