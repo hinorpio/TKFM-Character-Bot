@@ -30,7 +30,7 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `絕代佳人 賽露西亞 ★★★`,
+                                "label": `絕代佳人 賽露西亞 ★★★ (限定)`,
                                 "value": `ny-salucia`,
                                 "description": `Ny.Salucia 2023-01-18`,
                                 "default": false,
@@ -40,7 +40,7 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `龍飛鳳舞 蘭兒 ★★★`,
+                                "label": `龍飛鳳舞 蘭兒 ★★★ (限定)`,
                                 "value": `ny-lana`,
                                 "description": `Ny.Lana 2023-01-18`,
                                 "default": false,
