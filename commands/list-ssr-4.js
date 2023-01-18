@@ -30,13 +30,23 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `賢者 白 ★★★`,
-                                "value": `shiro2`,
-                                "description": `Shiro 2023-01-04`,
+                                "label": `絕代佳人 賽露西亞 ★★★`,
+                                "value": `ny-salucia`,
+                                "description": `Ny.Salucia 2023-01-18`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_shiro01",
-                                    id: "1058426292967571608"
+                                    name: "face_salucia07",
+                                    id: "1064522757712384072"
+                                }
+                            },
+                            {
+                                "label": `龍飛鳳舞 蘭兒 ★★★`,
+                                "value": `ny-lana`,
+                                "description": `Ny.Lana 2023-01-18`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lana05",
+                                    id: "1064523027355815986"
                                 }
                             },
                         ])
