@@ -59,7 +59,7 @@ const data = {
         "fields": [
             {
                 "name": `<:5flower:981031925168865290> 完全體數據`,
-                "value": `HP： | ATK：`
+                "value": `HP：3,201,153 | ATK：890,968`
             },
             {
                 "name": `<:detail_skill:933339968967933963> 精靈箭術。連連矢`,
@@ -108,7 +108,7 @@ const data = {
         "fields": [
             {
                 "name": `<:5flower:981031925168865290> 完全體數據`,
-                "value": `HP：3,330,469 | ATK：784,453`
+                "value": `HP：3,045,702 | ATK：937,027`
             },
             {
                 "name": `<:detail_skill:933339968967933963> 迴轉龍捲球！`,
