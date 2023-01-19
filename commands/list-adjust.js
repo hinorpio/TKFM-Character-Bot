@@ -12,7 +12,7 @@ module.exports = {
                 const embed = new EmbedBuilder()
                     .setColor(0xb4c9d9)
                     .setTitle("**調整歷史** 角色列表")
-                    .setDescription("蛤？笨蛋凱薩你在說甚麼？(暈倒)，你怎麼那麼突然又要找以前的資料，你這不是想累死本喵嗎？！\n......唉，算了算了，也不是第一天的事了。來吧，你想找誰？")
+                    .setDescription("真是的, 你這個笨蛋, 腦子只記色色的事,就記不著其他東西了嗎? 每次都只會麻煩本喵幫你找\n\n算了, 跟笨蛋說教還不如直接幫你找好了, 聽好了, 要本喵幫忙找人時, 就在下面選擇你要找的人, 例如要找巴爾的話, 就選擇「魔王 巴爾 ★★★」, 本喵就會把她的資料找給你看\n\n本喵這次講的那麼直白, 你這笨蛋可要記好了!")
                     
                 const list = new ActionRowBuilder().setComponents(
                     new SelectMenuBuilder()
@@ -20,9 +20,19 @@ module.exports = {
                         .setPlaceholder('選擇角色')
                         .setOptions([
                             {
-                                "label": `魔管家 艾可 ★★ (調整前)`,
+                                "label": `偶像 伊布力斯 ★★★ (限定) (2021-02-03)`,
+                                "value": `i-iblis`,
+                                "description": `I.Iblis (2021-02-03)`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iblis02",
+                                    id: "856202436837376020"
+                                }
+                            },
+                            {
+                                "label": `魔管家 艾可 ★★ (2021-05-12)`,
                                 "value": `aiko`,
-                                "description": `Aiko (Before 2021-05-12)`,
+                                "description": `Aiko (2021-05-12)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ik01",
@@ -30,9 +40,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `神官長 菲歐菈 ★★ (調整前)`,
+                                "label": `神官長 菲歐菈 ★★ (2021-05-12)`,
                                 "value": `fiora`,
-                                "description": `Fiora (Before 2021-05-12)`,
+                                "description": `Fiora (2021-05-12)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_fiora01",
@@ -40,9 +50,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `雙蛇軍團護士長 艾琳 ★ (調整前)`,
+                                "label": `雙蛇軍團護士長 艾琳 ★ (2021-05-12)`,
                                 "value": `irene`,
-                                "description": `Irene (Before 2021-05-12)`,
+                                "description": `Irene (2021-05-12)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_irene01",
@@ -50,9 +60,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `美人魚 瑪蓮 ★ (調整前)`,
+                                "label": `美人魚 瑪蓮 ★ (2021-05-12)`,
                                 "value": `marlene`,
-                                "description": `Marlene (Before 2021-05-12)`,
+                                "description": `Marlene (2021-05-12)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_mermaid01",
@@ -60,9 +70,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `劍聖 神無雪 ★★ (調整前)`,
+                                "label": `劍聖 神無雪 ★★ (2021-07-14)`,
                                 "value": `minayomi`,
-                                "description": `Minayomi (Before 2021-07-14)`,
+                                "description": `Minayomi (2021-07-14)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_minayomi02",
@@ -70,9 +80,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `矮人王 蘭兒 ★★★ (調整前)`,
+                                "label": `矮人王 蘭兒 ★★★ (2021-09-22)`,
                                 "value": `lana`,
-                                "description": `Lana (Before 2021-09-22)`,
+                                "description": `Lana (2021-09-22)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_lana01",
@@ -80,9 +90,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `大將軍 朱諾安 ★★ (調整前)`,
+                                "label": `大將軍 朱諾安 ★★ (2021-09-22)`,
                                 "value": `juneau`,
-                                "description": `Juneau (Before 2021-09-22)`,
+                                "description": `Juneau (2021-09-22)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_juneau01",
@@ -90,9 +100,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `女忍者 凜月 ★★ (調整前)`,
+                                "label": `女忍者 凜月 ★★ (2021-09-22)`,
                                 "value": `ritsuki`,
-                                "description": `Ritsuki (Before 2021-09-22)`,
+                                "description": `Ritsuki (2021-09-22)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ritsuki01",
@@ -100,9 +110,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `蛇女之后 梅絲米奈雅 ★★★ (調整前)`,
+                                "label": `蛇女之后 梅絲米奈雅 ★★★ (2021-10-27)`,
                                 "value": `mesmiia`,
-                                "description": `Mesmiia (Before 2021-10-27)`,
+                                "description": `Mesmiia (2021-10-27)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_mesmiia01",
@@ -110,9 +120,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `復生公主 千鶴 ★★★ (調整前)`,
+                                "label": `復生公主 千鶴 ★★★ (2021-10-27)`,
                                 "value": `chizuru`,
-                                "description": `Chizuru (Before 2021-10-27)`,
+                                "description": `Chizuru (2021-10-27)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_chizuru01",
@@ -120,9 +130,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `祭典狂歡 巴爾 ★★★ (限定) (調整前)`,
+                                "label": `祭典狂歡 巴爾 ★★★ (限定) (2022-01-12)`,
                                 "value": `f-baal`,
-                                "description": `F.Baal (Before 2022-01-12)`,
+                                "description": `F.Baal (2022-01-12)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_baal04",
@@ -130,9 +140,19 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `復活兔 撒旦 ★★★ (限定) (調整前)`,
+                                "label": `花嫁 撒旦 ★★★ (限定) (2022-02-23)`,
+                                "value": `b-satan`,
+                                "description": `B.Satan (2022-02-23)`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_satan03",
+                                    id: "943378431427633222"
+                                }
+                            },
+                            {
+                                "label": `復活兔 撒旦 ★★★ (限定) (2022-04-13)`,
                                 "value": `e-satan`,
-                                "description": `E.Satan (Before 2022-04-13)`,
+                                "description": `E.Satan (2022-04-13)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_satan02",
@@ -140,9 +160,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `夏日 KS-VIII ★★★ (限定) (調整前)`,
+                                "label": `夏日 KS-VIII ★★★ (限定) (2022-04-13)`,
                                 "value": `s-ks8`,
-                                "description": `S.KS8 (Before 2022-04-13)`,
+                                "description": `S.KS8 (2022-04-13)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ks02",
@@ -150,9 +170,19 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `小惡魔 布蘭妮 ★★★ (限定) (調整前)`,
+                                "label": `夏日 黑白諾艾莉 ★★★ (限定) (2022-06-10)`,
+                                "value": `s-noel`,
+                                "description": `S.Noel (2022-06-10)`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noel03",
+                                    id: "983334725437489222"
+                                }
+                            },
+                            {
+                                "label": `小惡魔 布蘭妮 ★★★ (限定) (2022-12-31)`,
                                 "value": `h-britney`,
-                                "description": `H.Britney (Before 2022-12-31)`,
+                                "description": `H.Britney (2022-12-31)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_britney02",
@@ -160,9 +190,9 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `貓娘Vtuber 杏仁咪嚕 ★★★ (調整前)`,
+                                "label": `貓娘Vtuber 杏仁咪嚕 ★★★ (2023-01-19)`,
                                 "value": `miru`,
-                                "description": `Miru (Before 2023-01-19)`,
+                                "description": `Miru (2023-01-19)`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_miru01",

@@ -302,7 +302,7 @@ const data = {
         "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_supporter:933339516788408420>`,
         "color": 0xEFB26B,
         "fields": [
-          {
+            {
                 "name": `<:5flower:981031925168865290> 完全體數據`,
                 "value": `HP：4,060,456 | ATK：702,411`
             },
