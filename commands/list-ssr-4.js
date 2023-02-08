@@ -56,7 +56,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_baal08",
-                                    id: "1071981914736562217"
+                                    id: "1072880868869275659"
                                 }
                             },
                             {
