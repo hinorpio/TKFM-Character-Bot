@@ -49,6 +49,36 @@ module.exports = {
                                     id: "1064523027355815986"
                                 }
                             },
+                            {
+                                "label": `甜心可可 巴爾 ★★★ (限定)`,
+                                "value": `v-baal`,
+                                "description": `V.Baal 2023-02-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_baal08",
+                                    id: "1071981914736562217"
+                                }
+                            },
+                            {
+                                "label": `致命可可 撒旦 ★★★ (限定)`,
+                                "value": `v-satan`,
+                                "description": `V.Satan 2023-02-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_satan04",
+                                    id: "1071982179095163012"
+                                }
+                            },
+                            {
+                                "label": `純情可可 伊布力斯 ★★★ (限定)`,
+                                "value": `v-iblis`,
+                                "description": `V.Iblis 2023-02-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iblis07",
+                                    id: "1071982359508959312"
+                                }
+                            },
                         ])
                 )
                 
