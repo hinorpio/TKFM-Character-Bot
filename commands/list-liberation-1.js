@@ -50,7 +50,36 @@ module.exports = {
                                     id: "856202436821254184"
                                 }
                             },
-                            
+                            {
+                                "label": `精靈王 賽露西亞 ★★★`,
+                                "value": `salucia`,
+                                "description": `Salucia 2020-12-14`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_salucia01",
+                                    id: "856202436720590878"
+                                }
+                            },
+                            {
+                                "label": `矮人王 蘭兒 ★★★`,
+                                "value": `lana`,
+                                "description": `Lana 2020-12-14`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lana01",
+                                    id: "856202436463820810"
+                                }
+                            },
+                            {
+                                "label": `法斯公主 露露 ★★★`,
+                                "value": `lulu`,
+                                "description": `Lulu 2020-12-14`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lulu01",
+                                    id: "856202436657152060"
+                                }
+                            },
                         ])
                 )
 
