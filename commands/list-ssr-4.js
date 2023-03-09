@@ -79,6 +79,26 @@ module.exports = {
                                     id: "1071982359508959312"
                                 }
                             },
+                            {
+                                "label": `尋情慾兔 鈴蘭 ★★★ (限定)`,
+                                "value": `lillane`,
+                                "description": `Lillane 2023-03-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lillane01",
+                                    id: "1082551492969496596"
+                                }
+                            },
+                            {
+                                "label": `慵懶貓貓 露露 ★★★ (限定)`,
+                                "value": `l-lulu`,
+                                "description": `L.Lulu 2023-03-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lulu13",
+                                    id: "1082551911770755173"
+                                }
+                            }
                         ])
                 )
                 
