@@ -345,7 +345,7 @@ const data = {
             "width": 0
         }
     },
-    'l-lulu': {
+    'c-lulu': {
         "type": "rich",
         "title": `慵懶貓貓 露露 ★★★`,
         "description": `<:rarity_ssr:933339183848763412> <:element_water:933339803087421523> <:class_obstructer:933339487084359740>`,

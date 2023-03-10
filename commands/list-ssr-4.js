@@ -91,8 +91,8 @@ module.exports = {
                             },
                             {
                                 "label": `慵懶貓貓 露露 ★★★ (限定)`,
-                                "value": `l-lulu`,
-                                "description": `L.Lulu 2023-03-08`,
+                                "value": `c-lulu`,
+                                "description": `C.Lulu 2023-03-08`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_lulu13",
