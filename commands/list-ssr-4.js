@@ -98,6 +98,26 @@ module.exports = {
                                     name: "face_lulu13",
                                     id: "1082551911770755173"
                                 }
+                            },
+                            {
+                                "label": `魔法少女 朱諾安 ★★★ (限定)`,
+                                "value": `m-juneau`,
+                                "description": `M.Juneau 2023-04-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_juneau01",
+                                    id: "862655188540063754"
+                                }
+                            },
+                            {
+                                "label": `魔法少女 布蘭妮 ★★★ (限定)`,
+                                "value": `m-britney`,
+                                "description": `M.Britney 2023-04-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_britney01",
+                                    id: "856202435541991454"
+                                }
                             }
                         ])
                 )
