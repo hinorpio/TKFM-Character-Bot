@@ -105,8 +105,8 @@ module.exports = {
                                 "description": `M.Juneau 2023-04-07`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_juneau01",
-                                    id: "862655188540063754"
+                                    name: "face_juneau02",
+                                    id: "1092808753268662273"
                                 }
                             },
                             {
@@ -115,8 +115,8 @@ module.exports = {
                                 "description": `M.Britney 2023-04-07`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_britney01",
-                                    id: "856202435541991454"
+                                    name: "face_britney03",
+                                    id: "1092808831106568242"
                                 }
                             }
                         ])
