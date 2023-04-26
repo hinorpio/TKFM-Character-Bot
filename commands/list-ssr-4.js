@@ -118,6 +118,16 @@ module.exports = {
                                     name: "face_britney03",
                                     id: "1092808831106568242"
                                 }
+                            },
+                            {
+                                "label": `毒蠍 莫默 ★★★`,
+                                "value": `momo`,
+                                "description": `Momo 2023-04-26`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_momo01",
+                                    id: "1100020517261553704"
+                                }
                             }
                         ])
                 )
