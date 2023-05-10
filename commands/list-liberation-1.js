@@ -80,6 +80,36 @@ module.exports = {
                                     id: "856202436657152060"
                                 }
                             },
+                            {
+                                "label": `魔人偶 KS-VIII ★★★`,
+                                "value": `ks8`,
+                                "description": `KS8 2021-02-24`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ks01",
+                                    id: "856202436275339294"
+                                }
+                            },
+                            {
+                                "label": `復生公主 千鶴 ★★★`,
+                                "value": `chizuru`,
+                                "description": `Chizuru 2021-04-21`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_chizuru01",
+                                    id: "856202436476534785"
+                                }
+                            },
+                            {
+                                "label": `天使長 聖米勒 ★★★`,
+                                "value": `milae`,
+                                "description": `Milae 2021-07-14`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_hshs02",
+                                    id: "872468146857078855"
+                                }
+                            },
                         ])
                 )
 

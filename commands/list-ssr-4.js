@@ -128,7 +128,27 @@ module.exports = {
                                     name: "face_momo01",
                                     id: "1100020517261553704"
                                 }
-                            }
+                            },
+                            {
+                                "label": `背德密醫 艾琳 ★★★ (限定)`,
+                                "value": `d-irene`,
+                                "description": `D.Irene 2023-05-10`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_Irene01",
+                                    id: "1105098180858757181"
+                                }
+                            },
+                            {
+                                "label": `嬌蠻兇護 凱薩 ★★★ (限定)`,
+                                "value": `n-caesar`,
+                                "description": `N.Caesar 2023-05-10`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_caesar02",
+                                    id: "1105098379006054433"
+                                }
+                            },
                         ])
                 )
                 
