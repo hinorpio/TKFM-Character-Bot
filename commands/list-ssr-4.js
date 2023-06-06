@@ -152,7 +152,7 @@ module.exports = {
                             {
                                 "label": `夏日 菲歐娜 ★★★ (限定)`,
                                 "value": `s-fiora`,
-                                "description": `S.Fiora 2023-06-06`,
+                                "description": `S.Fiora 2023-06-07`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_fiora04",
@@ -162,7 +162,7 @@ module.exports = {
                             {
                                 "label": `夏日 艾可 ★★★ (限定)`,
                                 "value": `s-aiko`,
-                                "description": `S.Aiko 2023-06-06`,
+                                "description": `S.Aiko 2023-06-07`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ik11",
@@ -172,7 +172,7 @@ module.exports = {
                             {
                                 "label": `夏日 巴爾 ★★★ (限定)`,
                                 "value": `s-baal`,
-                                "description": `S.Baal 2023-06-06`,
+                                "description": `S.Baal 2023-06-07`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_baal09",
@@ -182,7 +182,7 @@ module.exports = {
                             {
                                 "label": `夏日 神田綾音 ★★★ (限定)`,
                                 "value": `s-ayane`,
-                                "description": `S.Ayane 2023-06-06`,
+                                "description": `S.Ayane 2023-06-07`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ayane02",
