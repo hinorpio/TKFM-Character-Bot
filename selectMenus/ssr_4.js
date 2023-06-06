@@ -639,6 +639,202 @@ const data = {
             "width": 0
         }
     },
+    's-fiora': {
+        "type": "rich",
+        "title": `夏日 菲歐菈 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_healer:933339563127078922>`,
+        "color": 0xEFB26B,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> -+ (6潛)`,
+                "value": `使自身-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫- (12潛)`,
+                "value": `使自身免疫-`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1113470861094178816.webp?size=96&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
+    's-aiko': {
+        "type": "rich",
+        "title": `夏日 艾可 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_fire:933339778559131679> <:class_healer:933339563127078922>`,
+        "color": 0xF45F34,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> -+ (6潛)`,
+                "value": `使自身-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫- (12潛)`,
+                "value": `使自身免疫-`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1113470922691727500.webp?size=96&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
+    's-baal': {
+        "type": "rich",
+        "title": `夏日 巴爾 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_water:933339803087421523> <:class_attacker:933339400916578344>`,
+        "color": 0x48B4EB,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> -+ (6潛)`,
+                "value": `使自身-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫- (12潛)`,
+                "value": `使自身免疫-`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1113470978920558632.webp?size=96&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
+    's-ayane': {
+        "type": "rich",
+        "title": `夏日 神田綾音 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_attacker:933339400916578344>`,
+        "color": 0xEFB26B,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> -+ (6潛)`,
+                "value": `使自身-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫- (12潛)`,
+                "value": `使自身免疫-`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1113471043307327498.webp?size=96&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
 }
 
 const nanascript = randomReply[Math.floor(Math.random() * randomReply.length)];

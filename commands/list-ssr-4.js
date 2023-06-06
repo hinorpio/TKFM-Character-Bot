@@ -149,6 +149,46 @@ module.exports = {
                                     id: "1105098379006054433"
                                 }
                             },
+                            {
+                                "label": `夏日 菲歐娜 ★★★ (限定)`,
+                                "value": `s-fiora`,
+                                "description": `S.Fiora 2023-06-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_fiora04",
+                                    id: "1113470861094178816"
+                                }
+                            },
+                            {
+                                "label": `夏日 艾可 ★★★ (限定)`,
+                                "value": `s-aiko`,
+                                "description": `S.Aiko 2023-06-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ik11",
+                                    id: "1113470922691727500"
+                                }
+                            },
+                            {
+                                "label": `夏日 巴爾 ★★★ (限定)`,
+                                "value": `s-baal`,
+                                "description": `S.Baal 2023-06-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_baal09",
+                                    id: "1113470978920558632"
+                                }
+                            },
+                            {
+                                "label": `夏日 神田綾音 ★★★ (限定)`,
+                                "value": `s-ayane`,
+                                "description": `S.Ayane 2023-06-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ayane02",
+                                    id: "1113471043307327498"
+                                }
+                            },
                         ])
                 )
                 
