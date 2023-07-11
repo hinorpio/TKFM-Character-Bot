@@ -150,7 +150,7 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `夏日 菲歐娜 ★★★ (限定)`,
+                                "label": `夏日 菲歐菈 ★★★ (限定)`,
                                 "value": `s-fiora`,
                                 "description": `S.Fiora 2023-06-07`,
                                 "default": false,
@@ -187,6 +187,26 @@ module.exports = {
                                 "emoji": {
                                     name: "face_ayane02",
                                     id: "1113471043307327498"
+                                }
+                            },
+                            {
+                                "label": `乘風破浪 蘭兒 ★★★ (限定)`,
+                                "value": `o-lana`,
+                                "description": `O.Lana 2023-07-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lana07",
+                                    id: "1127457980691005560"
+                                }
+                            },
+                            {
+                                "label": `碧波白喵 娜娜 ★★★ (限定)`,
+                                "value": `o-nana`,
+                                "description": `O.Nana 2023-07-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nana15",
+                                    id: "1127457416297074698"
                                 }
                             },
                         ])

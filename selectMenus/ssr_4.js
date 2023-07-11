@@ -835,6 +835,104 @@ const data = {
             "width": 0
         }
     },
+    'o-lana': {
+        "type": "rich",
+        "title": `乘風破浪 蘭兒 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_wind:933339803653644358> <:class_obstructer:933339487084359740>`,
+        "color": 0x54BA71,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> -+ (6潛)`,
+                "value": `使自身-增加10%`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫- (12潛)`,
+                "value": `使自身免疫-`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1127457980691005560.webp?size=96&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
+    'o-nana': {
+        "type": "rich",
+        "title": `碧波白喵 娜娜 ★★★`,
+        "description": `<:rarity_ssr:933339183848763412> <:element_wind:933339803653644358> <:class_supporter:933339516788408420>`,
+        "color": 0x54BA71,
+        "fields": [
+            {
+                "name": `<:5flower:981031925168865290> 完全體數據`,
+                "value": `HP：- | ATK：-`
+            },
+            {
+                "name": `<:detail_skill:933339968967933963> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_attack:933340014379667457> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_leader:933339992732876811> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive:933340075910131732> -`,
+                "value": `-`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> -+ (6潛)`,
+                "value": `使自身-增加10%`
+            },
+            {
+                "name": `<:detail_passive2:1041115919356801136> 免疫- (12潛)`,
+                "value": `使自身免疫-`
+            }
+        ],
+        "thumbnail": {
+            "url": `https://cdn.discordapp.com/emojis/1127457416297074698.webp?size=96&quality=lossless`,
+            "height": 0,
+            "width": 0
+        }
+    },
 }
 
 const nanascript = randomReply[Math.floor(Math.random() * randomReply.length)];
