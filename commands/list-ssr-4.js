@@ -209,6 +209,26 @@ module.exports = {
                                     id: "1127457416297074698"
                                 }
                             },
+                            {
+                                "label": `詛咒凝視 絲塔夏 ★★★ (限定)`,
+                                "value": `sasha`,
+                                "description": `Sasha 2023-08-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_sasha01",
+                                    id: "1137597913506263201"
+                                }
+                            },
+                            {
+                                "label": `黑鷹 貝里絲 ★★★ (限定)`,
+                                "value": `bayliss`,
+                                "description": `Bayliss 2023-08-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_bayliss01",
+                                    id: "1137598125658353666"
+                                }
+                            },
                         ])
                 )
                 
