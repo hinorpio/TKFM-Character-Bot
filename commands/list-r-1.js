@@ -26,7 +26,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_irene01",
-                                    id: "862655188141604885"
+                                    id: "1140027012958924821"
                                 }
                             },
                             {
@@ -36,7 +36,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_nana05",
-                                    id: "859792644385013780"
+                                    id: "1140027029354459136"
                                 }
                             },
                             {
@@ -46,7 +46,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_iris01",
-                                    id: "856202437022711819"
+                                    id: "1140027015030919198"
                                 }
                             },
                             {
@@ -55,8 +55,8 @@ module.exports = {
                                 "description": `Dora 2020-12-14`,
                                 "default": false,
                                 "emoji": {
-                                    name: "IMG_4759",
-                                    id: "986447466499043338"
+                                    name: "face_dora01",
+                                    id: "1140027010190671872"
                                 }
                             },
                             {
@@ -65,8 +65,8 @@ module.exports = {
                                 "description": `Sable 2020-12-14`,
                                 "default": false,
                                 "emoji": {
-                                    name: "IMG_4762",
-                                    id: "986447431585640489"
+                                    name: "face_sable01",
+                                    id: "1140027037264904192"
                                 }
                             },
                             {
@@ -76,7 +76,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_mermaid01",
-                                    id: "858240484681580584"
+                                    id: "1140027023721513061"
                                 }
                             },
                             {
@@ -85,8 +85,8 @@ module.exports = {
                                 "description": `Yoi 2020-12-14`,
                                 "default": false,
                                 "emoji": {
-                                    name: "IMG_4760",
-                                    id: "986447459964317729"
+                                    name: "face_yoi01",
+                                    id: "1140027049843638312"
                                 }
                             },
                             {
@@ -95,8 +95,8 @@ module.exports = {
                                 "description": `Shiraka 2020-12-14`,
                                 "default": false,
                                 "emoji": {
-                                    name: "IMG_4763",
-                                    id: "986446383613636638"
+                                    name: "face_shiraka01",
+                                    id: "1140027042876891216"
                                 }
                             },
                             {
@@ -106,7 +106,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_panana03",
-                                    id: "957588087658147880"
+                                    id: "1140027032437264525"
                                 }
                             },
                             {
@@ -116,7 +116,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_Sophie01",
-                                    id: "914060282748342283"
+                                    id: "1140027046194577509"
                                 }
                             },
                             {
@@ -126,7 +126,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_jolina01",
-                                    id: "915842751940141056"
+                                    id: "1140027019623669890"
                                 }
                             },
                             {
@@ -136,7 +136,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_mia01",
-                                    id: "996211778126106756"
+                                    id: "1140027026808524840"
                                 }
                             },
                             {
@@ -146,7 +146,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_iyan01",
-                                    id: "1041721973534892072"
+                                    id: "1140027017878843392"
                                 }
                             },
                         ])
