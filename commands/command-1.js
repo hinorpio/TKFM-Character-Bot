@@ -96,13 +96,13 @@ module.exports = {
                                 "default": false
                             },
                             {
-                                "label": `塔機制`,
-                                "value": `塔機制`,
+                                "label": `機制網`,
+                                "value": `機制網`,
                                 "default": false
                             },
                             {
-                                "label": `活動資訊`,
-                                "value": `活動資訊`,
+                                "label": `⁠角色評價及活動資訊`,
+                                "value": `⁠角色評價及活動資訊`,
                                 "default": false
                             }
                         ])
