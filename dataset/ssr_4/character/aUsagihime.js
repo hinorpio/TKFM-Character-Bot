@@ -1,7 +1,7 @@
 module.exports = {
     "type": "rich",
     "title": `性感天使 兔姬 ★★★`,
-    "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_healer:933339563127078922>`,
+    "description": `<:rarity_ssr:933339183848763412> <:element_light:933339825933791312> <:class_supporter:933339516788408420>`,
     "color": 0xEFB26B,
     "fields": [
         {
