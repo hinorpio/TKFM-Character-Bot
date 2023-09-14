@@ -19,6 +19,9 @@ const oLana = require('./character/oLana.js');
 const oNana = require('./character/oNana.js');
 const sasha = require('./character/sasha.js');
 const bayliss = require('./character/bayliss.js');
+const aUsagihime = require('./character/aUsagihime.js');
+const dMiru = require('./character/dMiru.js');
+const nyoro = require('./character/nyoro.js');
 
 module.exports = {
     'shiro': shiro,
@@ -42,4 +45,7 @@ module.exports = {
     'o-nana': oNana,
     'sasha': sasha,
     'bayliss': bayliss,
+    'a-usagihime': aUsagihime,
+    'd-miru': dMiru,
+    'nyoro': nyoro,
 }

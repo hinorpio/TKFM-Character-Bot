@@ -229,6 +229,36 @@ module.exports = {
                                     id: "1140021880930193509"
                                 }
                             },
+                            {
+                                "label": `性感天使 兔姬 ★★★ (限定)`,
+                                "value": `a-usagihime`,
+                                "description": `A.Usagihime 2023-09-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_uh04",
+                                    id: "1151846563962949673"
+                                }
+                            },
+                            {
+                                "label": `惡魔貓娘 杏仁咪嚕 ★★★ (限定)`,
+                                "value": `d-miru`,
+                                "description": `D.Miru 2023-09-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_miru05",
+                                    id: "1151846557923164241"
+                                }
+                            },
+                            {
+                                "label": `沁夏淡粉 香草奈若 ★★★ (限定)`,
+                                "value": `nyoro`,
+                                "description": `Nyoro 2023-09-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nyoro01",
+                                    id: "1149700990610718791"
+                                }
+                            },
                         ])
                 )
                 

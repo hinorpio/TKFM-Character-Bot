@@ -6,7 +6,7 @@ module.exports = {
     "fields": [
         {
             "name": `<:5flower:981031925168865290> 完全體數據`,
-            "value": `HP：4,439,010 | ATK：641,957`
+            "value": `HP：4,439,010 | ATK：641,958`
         },
         {
             "name": `<:detail_skill:933339968967933963> 雞肉味，嘎嘣脆！`,
