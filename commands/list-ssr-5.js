@@ -39,6 +39,26 @@ module.exports = {
                                     id: "1163299125601767484"
                                 }
                             },
+                            {
+                                "label": `時御者 伊娜絲 ★★★ (限定)`,
+                                "value": `inase`,
+                                "description": `Inase 2023-11-15`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_Inase01",
+                                    id: "1173986483095478322"
+                                }
+                            },
+                            {
+                                "label": `幽夜女爵 卡蒂雅 ★★★ (限定)`,
+                                "value": `cartilla`,
+                                "description": `Cartilla 2023-11-15`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_Cartilla01",
+                                    id: "1173986611810283530"
+                                }
+                            },
                             
                         ])
                 )
