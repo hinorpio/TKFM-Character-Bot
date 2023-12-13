@@ -59,6 +59,46 @@ module.exports = {
                                     id: "1173986611810283530"
                                 }
                             },
+                            {
+                                "label": `性誕馴鹿 希依 ★★★ (限定)`,
+                                "value": `w-evie`,
+                                "description": `W.Evie 2023-12-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ce02",
+                                    id: "1184466615165792318"
+                                }
+                            },
+                            {
+                                "label": `聖夜喧嘩 莎琳娜 ★★★ (限定)`,
+                                "value": `salina`,
+                                "description": `Salina 2023-12-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_salina01",
+                                    id: "1184466622270943343"
+                                }
+                            },
+                            {
+                                "label": `雪夜幻夢 阿爾蒂雅 ★★★ (限定)`,
+                                "value": `x-aridya`,
+                                "description": `X.Aridya 2023-12-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_aridya03",
+                                    id: "1184466611692900452"
+                                }
+                            },
+                            {
+                                "label": `性誕戀歌 伊布力斯 ★★★ (限定)`,
+                                "value": `x-iblis`,
+                                "description": `X.Iblis 2023-12-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_Iblis08",
+                                    id: "1184466617611063337"
+                                }
+                            },
                             
                         ])
                 )

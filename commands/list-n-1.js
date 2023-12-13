@@ -229,6 +229,26 @@ module.exports = {
                                     id: "1140038193132093492"
                                 }
                             },
+                            {
+                                "label": `人馬 賽希`,
+                                "value": `steed`,
+                                "description": `Steed 2023-12-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_steed01",
+                                    id: "1184489524798169189"
+                                }
+                            },
+                            {
+                                "label": `木乃伊 穆穆`,
+                                "value": `mumu`,
+                                "description": `MuMu 2023-12-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_mumu01",
+                                    id: "1184489513796521994"
+                                }
+                            },
                         ])
                 )
                 
