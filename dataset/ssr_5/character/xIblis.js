@@ -6,7 +6,7 @@ module.exports = {
     "fields": [
         {
             "name": `<:5flower:981031925168865290> 完全體數據`,
-            "value": `HP：2,878,735 | ATK：899,604`
+            "value": `HP：3,109,034 | ATK：916,877`
         },
         {
             "name": `<:detail_skill:933339968967933963> 搖晃的紅酒杯`,
