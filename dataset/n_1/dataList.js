@@ -21,6 +21,8 @@ const punishment = require('./character/punishment.js');
 const bliss = require('./character/bliss.js');
 const steed = require('./character/steed.js');
 const mumu = require('./character/mumu.js');
+const molly = require('./character/molly.js');
+const anya = require('./character/anya.js');
 
 module.exports = {
     'saria': saria,
@@ -46,4 +48,6 @@ module.exports = {
     'bliss': bliss,
     'steed': steed,
     'mumu': mumu,
+    'molly': molly,
+    'anya': anya
 }

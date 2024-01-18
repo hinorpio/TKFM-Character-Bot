@@ -57,6 +57,7 @@ function startBot(){
                     await command.execute(interaction, client);
                 } catch (err) {
                     if(err) console.log(err);
+                    util.appendToLogFile(error);
                     util.showErrorReply(interaction, err)
                 }
             }
@@ -68,6 +69,7 @@ function startBot(){
                     await menu.execute(interaction, client);
                 } catch (err) {
                     if(err) console.log(err);
+                    util.appendToLogFile(error);
                     util.showErrorReply(interaction, err)
                 }
             }
@@ -79,6 +81,7 @@ function startBot(){
                     await button.execute(interaction, client);
                 } catch (error) {
                     if(error) console.log(error);
+                    util.appendToLogFile(error);
                     util.showErrorReply(interaction, error)
                 }
             }
