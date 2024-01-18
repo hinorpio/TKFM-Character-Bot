@@ -1,6 +1,6 @@
 module.exports = {
     "type": "rich",
-    "title": `鳥身女妖 哈比`,
+    "title": `獵犬小隊 安雅`,
     "description": `<:rarity_n:933338968873918554> <:element_wind:933339803653644358> <:class_obstructer:933339487084359740>`,
     "color": 0x54BA71,
     "fields": [
