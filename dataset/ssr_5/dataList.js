@@ -6,6 +6,8 @@ const wEvie = require('./character/wEvie.js');
 const salina = require('./character/salina.js');
 const xAridya = require('./character/xAridya.js');
 const xIblis = require('./character/xIblis.js');
+const noma = require('./character/noma.js');
+const belladonna = require('./character/belladonna.js');
 
 
 module.exports = {
@@ -16,5 +18,7 @@ module.exports = {
     'w-evie': wEvie,
     'salina': salina,
     'x-aridya': xAridya,
-    'x-iblis': xIblis
+    'x-iblis': xIblis,
+    'noma': noma,
+    'belladonna': belladonna
 }

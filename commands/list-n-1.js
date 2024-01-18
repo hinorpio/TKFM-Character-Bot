@@ -249,6 +249,26 @@ module.exports = {
                                     id: "1184489513796521994"
                                 }
                             },
+                            {
+                                "label": `獵犬小隊 茉莉`,
+                                "value": `molly`,
+                                "description": `Molly 2024-01-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_molly01",
+                                    id: "1197601535337713784"
+                                }
+                            },
+                            {
+                                "label": `獵犬小隊 安雅`,
+                                "value": `anya`,
+                                "description": `Anya 2024-01-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_anya01",
+                                    id: "1197601531684454420"
+                                }
+                            },
                         ])
                 )
                 

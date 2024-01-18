@@ -99,6 +99,26 @@ module.exports = {
                                     id: "1184466617611063337"
                                 }
                             },
+                            {
+                                "label": `狂犬 諾蕾蒂 ★★★ (限定)`,
+                                "value": `noma`,
+                                "description": `Noma 2024-01-17`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noma01",
+                                    id: "1197588163825242152"
+                                }
+                            },
+                            {
+                                "label": `副手 貝蕾朵 ★★★ (限定)`,
+                                "value": `belladonna`,
+                                "description": `Belladonna 2024-01-17`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_belladonna01",
+                                    id: "1197588159995846786"
+                                }
+                            },
                             
                         ])
                 )
