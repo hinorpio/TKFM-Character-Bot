@@ -119,7 +119,36 @@ module.exports = {
                                     id: "1197588159995846786"
                                 }
                             },
-                            
+                            {
+                                "label": `甜心偶像 星空奈奈美 ★★★ (限定)`,
+                                "value": `nanami`,
+                                "description": `nanami 2024-02-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nanami01",
+                                    id: "1205013570362802208"
+                                }
+                            },
+                            {
+                                "label": `閃耀歌姬 黑白諾艾莉 ★★★ (限定)`,
+                                "value": `w-noel`,
+                                "description": `W.Noel 2024-02-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noel04",
+                                    id: "1205013572275408898"
+                                }
+                            },
+                            {
+                                "label": `偶像經紀人 梅絲米奈雅 ★★★ (限定)`,
+                                "value": `w-mesmiia`,
+                                "description": `W.Mesmiia 2024-02-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_mesmiia02",
+                                    id: "1205013566873145354"
+                                }
+                            },
                         ])
                 )
                 
