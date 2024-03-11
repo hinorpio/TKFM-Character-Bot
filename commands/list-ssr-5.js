@@ -149,6 +149,26 @@ module.exports = {
                                     id: "1205013566873145354"
                                 }
                             },
+                            {
+                                "label": `賞金獵人 安潔娜爾 ★★★ (限定)`,
+                                "value": `angelina`,
+                                "description": `Angelina 2024-03-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_angelina01",
+                                    id: "1216781076652101794"
+                                }
+                            },
+                            {
+                                "label": `春情白兔 鈴蘭 ★★★ (限定)`,
+                                "value": `w-lillane`,
+                                "description": `W.Lillane 2024-03-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lillane02",
+                                    id: "1216781069949472858"
+                                }
+                            },
                         ])
                 )
                 
