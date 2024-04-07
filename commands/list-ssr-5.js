@@ -169,6 +169,26 @@ module.exports = {
                                     id: "1216781069949472858"
                                 }
                             },
+                            {
+                                "label": `不健全遐想 托特拉 ★★★ (限定)`,
+                                "value": `p-tyrella`,
+                                "description": `P.Tyrella 2024-03-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_tyrella02",
+                                    id: "1226338481534537858"
+                                }
+                            },
+                            {
+                                "label": `迷情薄紗 露露 ★★★ (限定)`,
+                                "value": `p-lulu`,
+                                "description": `P.Lulu 2024-03-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lulu14",
+                                    id: "1226338484076417035"
+                                }
+                            },
                         ])
                 )
                 
