@@ -199,6 +199,16 @@ module.exports = {
                                     id: "1140014906683433051"
                                 }
                             },
+                            {
+                                "label": `迷情薄紗 露露 ★★★ (限定) (2024-04-26)`,
+                                "value": `p-lulu`,
+                                "description": `P.Lulu 2024-04-26`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lulu14",
+                                    id: "1226338484076417035"
+                                }
+                            },
                         ])
                 )
 

@@ -172,7 +172,7 @@ module.exports = {
                             {
                                 "label": `不健全遐想 托特拉 ★★★ (限定)`,
                                 "value": `p-tyrella`,
-                                "description": `P.Tyrella 2024-03-06`,
+                                "description": `P.Tyrella 2024-04-02`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_tyrella02",
@@ -182,11 +182,31 @@ module.exports = {
                             {
                                 "label": `迷情薄紗 露露 ★★★ (限定)`,
                                 "value": `p-lulu`,
-                                "description": `P.Lulu 2024-03-06`,
+                                "description": `P.Lulu 2024-04-02`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_lulu14",
                                     id: "1226338484076417035"
+                                }
+                            },
+                            {
+                                "label": `真神化身 菈萊亞 ★★★ (限定)`,
+                                "value": `lelya`,
+                                "description": `lelya 2024-05-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lelya01",
+                                    id: "1241468879499296899"
+                                }
+                            },
+                            {
+                                "label": `調查員 娜娜 ★★★ (限定)`,
+                                "value": `a-nana`,
+                                "description": `A.Nana 2024-05-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nana16",
+                                    id: "1241468875116384367"
                                 }
                             },
                         ])

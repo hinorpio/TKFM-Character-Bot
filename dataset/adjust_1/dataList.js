@@ -16,6 +16,7 @@ const sKs8 = require('./character/sKs8.js');
 const sNoel = require('./character/sNoel.js');
 const hBritney = require('./character/hBritney.js');
 const miru = require('./character/miru.js');
+const pLulu = require('./character/pLulu.js');
 
 module.exports = {
     'i-iblis': iIblis,
@@ -36,4 +37,5 @@ module.exports = {
     's-noel': sNoel,
     'h-britney': hBritney,
     'miru': miru,
+    'p-lulu': pLulu
 }

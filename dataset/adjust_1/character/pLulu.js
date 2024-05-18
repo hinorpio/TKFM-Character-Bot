@@ -6,7 +6,7 @@ module.exports = {
     "fields": [
         {
             "name": `<:5flower:981031925168865290> 完全體數據`,
-            "value": `HP：3,543,722 | ATK：804,606`
+            "value": `HP：3,375,317 | ATK：767,182\n(上調基礎ATK與HP數值)`
         },
         {
             "name": `<:detail_skill:933339968967933963> 魔王城party time`,

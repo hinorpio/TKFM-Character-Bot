@@ -15,6 +15,8 @@ const angelina = require('./character/angelina.js');
 const wLillane = require('./character/wLillane.js');
 const pTyrella = require('./character/pTyrella.js');
 const pLulu = require('./character/pLulu.js');
+const lelya = require('./character/lelya.js');
+const aNana = require('./character/aNana.js');
 
 module.exports = {
     'h-ayane': hAyane,
@@ -34,4 +36,6 @@ module.exports = {
     'w-lillane': wLillane,
     'p-tyrella': pTyrella,
     'p-lulu': pLulu,
+    'lelya': lelya,
+    'a-nana': aNana,
 }
