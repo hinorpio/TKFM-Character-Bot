@@ -17,6 +17,10 @@ const pTyrella = require('./character/pTyrella.js');
 const pLulu = require('./character/pLulu.js');
 const lelya = require('./character/lelya.js');
 const aNana = require('./character/aNana.js');
+const sChizuru = require('./character/sChizuru.js');
+const sSatan = require('./character/sSatan.js');
+const sSalucia = require('./character/sSalucia.js');
+const sCaesar = require('./character/sCaesar.js');
 
 module.exports = {
     'h-ayane': hAyane,
@@ -38,4 +42,8 @@ module.exports = {
     'p-lulu': pLulu,
     'lelya': lelya,
     'a-nana': aNana,
+    's-chizuru': sChizuru,
+    's-satan': sSatan,
+    's-salucia': sSalucia,
+    's-caesar': sCaesar,
 }

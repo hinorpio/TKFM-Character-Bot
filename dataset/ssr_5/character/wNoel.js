@@ -42,7 +42,7 @@ module.exports = {
         }
     ],
     "thumbnail": {
-        "url": `https://cdn.discordapp.com/emojis/1203712130306674738.webp?size=96&quality=lossless`,
+        "url": `https://cdn.discordapp.com/emojis/1247869801209008198.webp?size=96&quality=lossless`,
         "height": 0,
         "width": 0
     }

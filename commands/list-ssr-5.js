@@ -126,7 +126,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_nanami01",
-                                    id: "1205013570362802208"
+                                    id: "1247869803230658631"
                                 }
                             },
                             {
@@ -136,7 +136,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_noel04",
-                                    id: "1205013572275408898"
+                                    id: "1247869801209008198"
                                 }
                             },
                             {
@@ -146,7 +146,7 @@ module.exports = {
                                 "default": false,
                                 "emoji": {
                                     name: "face_mesmiia02",
-                                    id: "1205013566873145354"
+                                    id: "1247869806422523965"
                                 }
                             },
                             {
@@ -207,6 +207,46 @@ module.exports = {
                                 "emoji": {
                                     name: "face_nana16",
                                     id: "1241468875116384367"
+                                }
+                            },
+                            {
+                                "label": `夏日 千鶴 ★★★ (限定)`,
+                                "value": `s-chizuru`,
+                                "description": `S.Chizuru 2024-06-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_chizuru03",
+                                    id: "1247873153674510387"
+                                }
+                            },
+                            {
+                                "label": `夏日 撒旦 ★★★ (限定)`,
+                                "value": `s-satan`,
+                                "description": `S.Satan 2024-06-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_satan05",
+                                    id: "1247873149597519942"
+                                }
+                            },
+                            {
+                                "label": `夏日 賽露西亞 ★★★ (限定)`,
+                                "value": `s-salucia`,
+                                "description": `S.Salucia 2024-06-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_salucia08",
+                                    id: "1247873151715643433"
+                                }
+                            },
+                            {
+                                "label": `夏日 凱薩 ★★★ (限定)`,
+                                "value": `s-caesar`,
+                                "description": `S.Caesar 2024-06-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_caesar03",
+                                    id: "1247873155536523275"
                                 }
                             },
                         ])
