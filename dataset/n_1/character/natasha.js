@@ -1,6 +1,6 @@
 module.exports = {
     "type": "rich",
-    "title": `法斯高階法斯 諾諾可`,
+    "title": `法斯高階法斯師 諾諾可`,
     "description": `<:rarity_n:933338968873918554> <:element_water:933339803087421523> <:class_attacker:933339400916578344>`,
     "color": 0x48B4EB,
     "fields": [

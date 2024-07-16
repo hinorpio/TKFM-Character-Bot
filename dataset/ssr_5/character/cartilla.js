@@ -37,8 +37,8 @@ module.exports = {
             "value": `使自身攻擊力增加10%`
         },
         {
-            "name": `<:detail_passive2:1041115919356801136> 免疫沈默 (12潛)`,
-            "value": `使自身免疫沈默`
+            "name": `<:detail_passive2:1041115919356801136> 免疫沉默 (12潛)`,
+            "value": `使自身免疫沉默`
         }
     ],
     "thumbnail": {

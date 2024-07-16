@@ -190,7 +190,7 @@ module.exports = {
                                 }
                             },
                             {
-                                "label": `法斯高階法斯 諾諾可`,
+                                "label": `法斯高階法師 諾諾可`,
                                 "value": `natasha`,
                                 "description": `Natasha 2021-03-10`,
                                 "default": false,
