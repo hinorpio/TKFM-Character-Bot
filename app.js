@@ -7,7 +7,7 @@ const util = require('./util');
 function startBot(){
     try{
         const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages] });
-        const commands = util.handleComments(client)
+        const commands = util.handleCommands(client)
         const buttons = util.handleButtons(client)
         const selectMenus = util.handleSelectMenus(client)
 

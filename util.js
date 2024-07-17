@@ -4,6 +4,7 @@ const path = require('path');
 const { Collection } = require('discord.js');
 const mentionReply = require('./replyScript/mentionReply.json');
 const codeReply = require('./replyScript/codeReply.json');
+const { log } = require('console');
 
 dotenv.config()
 
@@ -40,7 +41,7 @@ module.exports = {
     mentionReply(message){
         return `<@!${message.author.id}> ${mentionReply[Math.floor(Math.random() * mentionReply.length)]}`;
     },
-    handleComments(client){
+    handleCommands(client){
         const commandFiles = fs.readdirSync("./commands").filter(file => file.endsWith(".js"));
         const commands = []
         client.commands = new Collection();
@@ -50,7 +51,6 @@ module.exports = {
             commands.push(command.data.toJSON());
             client.commands.set(command.data.name, command);
         }
-
         return commands
     },
     handleButtons(client){
