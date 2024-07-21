@@ -231,11 +231,11 @@ module.exports = {
                             },
                             {
                                 "label": `人馬 賽希`,
-                                "value": `steed`,
-                                "description": `Steed 2023-12-13`,
+                                "value": `mareyl`,
+                                "description": `Mareyl 2023-12-13`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_steed01",
+                                    name: "face_mareyl01",
                                     id: "1184489524798169189"
                                 }
                             },

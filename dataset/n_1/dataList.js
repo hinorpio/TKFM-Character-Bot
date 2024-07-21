@@ -19,7 +19,7 @@ const natasha = require('./character/natasha.js');
 const prototype = require('./character/prototype.js');
 const punishment = require('./character/punishment.js');
 const bliss = require('./character/bliss.js');
-const steed = require('./character/steed.js');
+const mareyl = require('./character/mareyl.js');
 const mumu = require('./character/mumu.js');
 const molly = require('./character/molly.js');
 const anya = require('./character/anya.js');
@@ -46,7 +46,7 @@ module.exports = {
     'prototype': prototype,
     'punishment': punishment,
     'bliss': bliss,
-    'steed': steed,
+    'mareyl': mareyl,
     'mumu': mumu,
     'molly': molly,
     'anya': anya
