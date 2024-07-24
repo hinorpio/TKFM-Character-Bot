@@ -130,6 +130,16 @@ module.exports = {
                                 }
                             },
                             {
+                                "label": `烈日國武士 桔梗 (2022-01-12)`,
+                                "value": `kikyou`,
+                                "description": `Kikyou (2022-01-12)`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_kikyou02",
+                                    id: "1140038220449595434"
+                                }
+                            },
+                            {
                                 "label": `祭典狂歡 巴爾 ★★★ (限定) (2022-01-12)`,
                                 "value": `f-baal`,
                                 "description": `F.Baal (2022-01-12)`,

@@ -9,6 +9,7 @@ const juneau = require('./character/juneau.js');
 const ritsuki = require('./character/ritsuki.js');
 const mesmiia = require('./character/mesmiia.js');
 const chizuru = require('./character/chizuru.js');
+const kikyou = require('./character/kikyou.js');
 const fBaal = require('./character/fBaal.js');
 const bSatan = require('./character/bSatan.js');
 const eSatan = require('./character/eSatan.js');
@@ -30,6 +31,7 @@ module.exports = {
     'ritsuki': ritsuki,
     'mesmiia': mesmiia,
     'chizuru': chizuru,
+    'kikyou': kikyou,
     'f-baal': fBaal,
     'b-satan': bSatan,
     'e-satan': eSatan,
