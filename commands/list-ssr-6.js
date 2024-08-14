@@ -39,6 +39,26 @@ module.exports = {
                                     id: "1262786660454764574"
                                 }
                             },
+                            {
+                                "label": `酩酊狂歡 靜 ★★★ (限定)`,
+                                "value": `d-shizuka`,
+                                "description": `D.Shizuka 2024-08-15`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_shizuka06",
+                                    id: "1272582221911425186"
+                                }
+                            },
+                            {
+                                "label": `千年靈狐 椿 ★★★ (限定)`,
+                                "value": `tsubaki`,
+                                "description": `Tsubaki 2024-08-15`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_tsubaki01",
+                                    id: "1272582224088268872"
+                                }
+                            },
                         ])
                 )
                 
