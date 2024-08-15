@@ -41,8 +41,8 @@ module.exports = {
                             },
                             {
                                 "label": `酩酊狂歡 靜 ★★★ (限定)`,
-                                "value": `d-shizuka`,
-                                "description": `D.Shizuka 2024-08-15`,
+                                "value": `beer-shizuka`,
+                                "description": `Beer.Shizuka 2024-08-15`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_shizuka06",
