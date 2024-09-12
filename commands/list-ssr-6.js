@@ -59,6 +59,36 @@ module.exports = {
                                     id: "1272582224088268872"
                                 }
                             },
+                            {
+                                "label": `占星師 亞美西思特 ★★★ (限定)`,
+                                "value": `amethystina`,
+                                "description": `Amethystina 2024-09-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_amethystina01",
+                                    id: "1283465675376955453"
+                                }
+                            },
+                            {
+                                "label": `勇者兔女郎 神田綾音 ★★★ (限定)`,
+                                "value": `r-ayane`,
+                                "description": `R.Ayane 2024-09-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ayane04",
+                                    id: "1283465677822361600"
+                                }
+                            },
+                            {
+                                "label": `性感兔女郎 伊布力斯 ★★★ (限定)`,
+                                "value": `r-iblis`,
+                                "description": `R.Iblis 2024-09-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iblis09",
+                                    id: "1283465681064693780"
+                                }
+                            },
                         ])
                 )
                 
