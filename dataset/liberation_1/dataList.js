@@ -7,6 +7,8 @@ const lulu = require('./character/lulu.js');
 const ks8 = require('./character/ks8.js');
 const chizuru = require('./character/chizuru.js');
 const milae = require('./character/milae.js');
+const fBaal = require('./character/fBaal.js');
+const noel = require('./character/noel.js');
 
 module.exports = {
     'baal': baal,
@@ -18,4 +20,6 @@ module.exports = {
     'ks8': ks8,
     'chizuru': chizuru,
     'milae': milae,
+    'f-baal': fBaal,
+    'noel': noel,
 }

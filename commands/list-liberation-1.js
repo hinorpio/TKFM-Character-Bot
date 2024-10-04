@@ -110,6 +110,26 @@ module.exports = {
                                     id: "1140011247878819942"
                                 }
                             },
+                            {
+                                "label": `祭典狂歡 巴爾 ★★★ (限定)`,
+                                "value": `f-baal`,
+                                "description": `F.Baal 2020-12-30`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_baal04",
+                                    id: "1140011239179825342"
+                                }
+                            },
+                            {
+                                "label": `偶像 黑白諾艾莉 ★★★ (限定)`,
+                                "value": `noel`,
+                                "description": `Noel 2021-02-03`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noel01",
+                                    id: "1140011278501429260"
+                                }
+                            },
                         ])
                 )
 

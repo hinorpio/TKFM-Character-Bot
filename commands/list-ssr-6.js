@@ -71,8 +71,8 @@ module.exports = {
                             },
                             {
                                 "label": `勇者兔女郎 神田綾音 ★★★ (限定)`,
-                                "value": `r-ayane`,
-                                "description": `R.Ayane 2024-09-11`,
+                                "value": `bg-ayane`,
+                                "description": `Bg.Ayane 2024-09-11`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ayane04",
@@ -81,8 +81,8 @@ module.exports = {
                             },
                             {
                                 "label": `性感兔女郎 伊布力斯 ★★★ (限定)`,
-                                "value": `r-iblis`,
-                                "description": `R.Iblis 2024-09-11`,
+                                "value": `bg-iblis`,
+                                "description": `Bg.Iblis 2024-09-11`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_iblis09",
