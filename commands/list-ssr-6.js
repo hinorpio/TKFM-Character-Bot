@@ -89,6 +89,26 @@ module.exports = {
                                     id: "1283465681064693780"
                                 }
                             },
+                            {
+                                "label": `治癒之星 蘇珊 ★★★ (限定)`,
+                                "value": `susan`,
+                                "description": `Susan 2024-10-16`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_susan01",
+                                    id: "1294977876600426598"
+                                }
+                            },
+                            {
+                                "label": `純真殺意 撒旦 ★★★ (限定)`,
+                                "value": `h-satan`,
+                                "description": `H.Satan 2024-10-16`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_satan06",
+                                    id: "1294977870447251519"
+                                }
+                            },
                         ])
                 )
                 
