@@ -7,6 +7,8 @@ const bgAyane = require('./character/bgAyane.js');
 const bgIblis = require('./character/bgIblis.js');
 const susan = require('./character/susan.js');
 const hSatan = require('./character/hSatan.js');
+const mNanami = require('./character/mNanami.js');
+const mKs8 = require('./character/mKs8.js');
 
 module.exports = {
     'd-minayomi': dMinayomi,
@@ -17,5 +19,7 @@ module.exports = {
     'bg-ayane': bgAyane,
     'bg-iblis': bgIblis,
     'susan': susan,
-    'h-satan': hSatan
+    'h-satan': hSatan,
+    'm-nanami': mNanami,
+    'm-ks8': mKs8,
 }

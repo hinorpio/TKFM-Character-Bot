@@ -109,6 +109,26 @@ module.exports = {
                                     id: "1294977870447251519"
                                 }
                             },
+                            {
+                                "label": `甜蜜女僕 星空奈奈美 ★★★ (限定)`,
+                                "value": `m-nanami`,
+                                "description": `M.Nanami 2024-11-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nanami02",
+                                    id: "1306227787824234517"
+                                }
+                            },
+                            {
+                                "label": `冷淡女僕 KS-VIII ★★★ (限定)`,
+                                "value": `m-ks8`,
+                                "description": `M.KS8 2024-11-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ks03",
+                                    id: "1306227783298449451"
+                                }
+                            },
                         ])
                 )
                 
