@@ -9,6 +9,10 @@ const susan = require('./character/susan.js');
 const hSatan = require('./character/hSatan.js');
 const mNanami = require('./character/mNanami.js');
 const mKs8 = require('./character/mKs8.js');
+const xBaal = require('./character/xBaal.js');
+const xMuila = require('./character/xMuila.js');
+const xBritney = require('./character/xBritney.js');
+const xIchika = require('./character/xIchika.js');
 
 module.exports = {
     'd-minayomi': dMinayomi,
@@ -22,4 +26,8 @@ module.exports = {
     'h-satan': hSatan,
     'm-nanami': mNanami,
     'm-ks8': mKs8,
+    'x-baal': xBaal,
+    'x-muila': xMuila,
+    'x-britney': xBritney,
+    'x-ichika': xIchika,
 }

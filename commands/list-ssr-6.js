@@ -129,6 +129,46 @@ module.exports = {
                                     id: "1306227783298449451"
                                 }
                             },
+                            {
+                                "label": `性誕魔王 巴爾 ★★★ (限定)`,
+                                "value": `x-baal`,
+                                "description": `X.Baal 2024-12-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_baal10",
+                                    id: "1317244405392085002"
+                                }
+                            },
+                            {
+                                "label": `純真祈願 牧愛菈 ★★★ (限定)`,
+                                "value": `x-muila`,
+                                "description": `X.Muila 2024-12-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_muila02",
+                                    id: "1317244416682889359"
+                                }
+                            },
+                            {
+                                "label": `聖夜奇謀 布蘭妮 ★★★ (限定)`,
+                                "value": `x-britney`,
+                                "description": `X.Britney 2024-12-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_britney04",
+                                    id: "1317244409825333278"
+                                }
+                            },
+                            {
+                                "label": `翩舞雪花 初華 ★★★ (限定)`,
+                                "value": `x-ichika`,
+                                "description": `X.Ichika 2024-12-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ichika02",
+                                    id: "1317244413839151134"
+                                }
+                            },
                         ])
                 )
                 
