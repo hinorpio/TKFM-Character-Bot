@@ -9,6 +9,8 @@ const chizuru = require('./character/chizuru.js');
 const milae = require('./character/milae.js');
 const fBaal = require('./character/fBaal.js');
 const noel = require('./character/noel.js');
+const bIblis = require('./character/bIblis.js');
+const ichika = require('./character/ichika.js');
 
 module.exports = {
     'baal': baal,
@@ -22,4 +24,6 @@ module.exports = {
     'milae': milae,
     'f-baal': fBaal,
     'noel': noel,
+    'b-iblis': bIblis,
+    'ichika': ichika,
 }

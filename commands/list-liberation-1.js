@@ -130,6 +130,26 @@ module.exports = {
                                     id: "1140011278501429260"
                                 }
                             },
+                            {
+                                "label": `花嫁 伊布力斯 ★★★ (限定)`,
+                                "value": `b-iblis`,
+                                "description": `B.Iblis 2022-02-16`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iblis05",
+                                    id: "1140014883744792806"
+                                }
+                            },
+                            {
+                                "label": `雪姬 初華 ★★★ (限定)`,
+                                "value": `ichika`,
+                                "description": `Ichika 2022-07-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ichika01",
+                                    id: "1140018241545195650"
+                                }
+                            },
                         ])
                 )
 
