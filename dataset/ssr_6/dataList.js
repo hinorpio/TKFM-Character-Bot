@@ -13,6 +13,8 @@ const xBaal = require('./character/xBaal.js');
 const xMuila = require('./character/xMuila.js');
 const xBritney = require('./character/xBritney.js');
 const xIchika = require('./character/xIchika.js');
+const nyFiora = require('./character/nyFiora.js');
+const zaskia = require('./character/zaskia.js');
 
 module.exports = {
     'd-minayomi': dMinayomi,
@@ -30,4 +32,6 @@ module.exports = {
     'x-muila': xMuila,
     'x-britney': xBritney,
     'x-ichika': xIchika,
+    'ny-fiora': nyFiora,
+    'zaskia': zaskia,
 }

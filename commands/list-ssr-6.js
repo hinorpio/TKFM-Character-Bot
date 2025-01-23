@@ -169,6 +169,26 @@ module.exports = {
                                     id: "1317244413839151134"
                                 }
                             },
+                            {
+                                "label": `喜迎性春 菲歐菈 ★★★ (限定)`,
+                                "value": `ny-fiora`,
+                                "description": `Ny.Fiora 2025-01-22`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_fiora05",
+                                    id: "1331999489891897427"
+                                }
+                            },
+                            {
+                                "label": `舞焰赤龍 薩夏 ★★★ (限定)`,
+                                "value": `zaskia`,
+                                "description": `Zaskia 2025-01-22`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_zaskia01",
+                                    id: "1331999492748087296"
+                                }
+                            },
                         ])
                 )
                 
