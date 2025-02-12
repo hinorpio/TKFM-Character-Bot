@@ -15,6 +15,9 @@ const xBritney = require('./character/xBritney.js');
 const xIchika = require('./character/xIchika.js');
 const nyFiora = require('./character/nyFiora.js');
 const zaskia = require('./character/zaskia.js');
+const pAiko = require('./character/pAiko.js');
+const niCaesar = require('./character/niCaesar.js');
+const fKana = require('./character/fKana.js');
 
 module.exports = {
     'd-minayomi': dMinayomi,
@@ -34,4 +37,7 @@ module.exports = {
     'x-ichika': xIchika,
     'ny-fiora': nyFiora,
     'zaskia': zaskia,
+    'p-aiko': pAiko,
+    'ni-caesar': niCaesar,
+    'f-kana': fKana,
 }

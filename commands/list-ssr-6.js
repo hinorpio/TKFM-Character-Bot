@@ -189,6 +189,36 @@ module.exports = {
                                     id: "1331999492748087296"
                                 }
                             },
+                            {
+                                "label": `虔信神祀 艾可 ★★★ (限定)`,
+                                "value": `p-aiko`,
+                                "description": `P.Aiko 2025-02-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ik12",
+                                    id: "1339295970097365012"
+                                }
+                            },
+                            {
+                                "label": `夜之影 凱薩 ★★★ (限定)`,
+                                "value": `ni-caesar`,
+                                "description": `Ni.Caesar 2025-02-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_caesar04",
+                                    id: "1339295967924457503"
+                                }
+                            },
+                            {
+                                "label": `祭典花韻 香奈 ★★★ (限定)`,
+                                "value": `f-kana`,
+                                "description": `F.Kana 2025-02-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_kana02",
+                                    id: "1339295973935026197"
+                                }
+                            },
                         ])
                 )
                 
