@@ -18,6 +18,8 @@ const zaskia = require('./character/zaskia.js');
 const pAiko = require('./character/pAiko.js');
 const niCaesar = require('./character/niCaesar.js');
 const fKana = require('./character/fKana.js');
+const starMia = require('./character/starMia.js');
+const starAnnee = require('./character/starAnnee.js');
 
 module.exports = {
     'd-minayomi': dMinayomi,
@@ -40,4 +42,6 @@ module.exports = {
     'p-aiko': pAiko,
     'ni-caesar': niCaesar,
     'f-kana': fKana,
+    'star-mia': starMia,
+    'star-annee': starAnnee,
 }

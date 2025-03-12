@@ -219,6 +219,26 @@ module.exports = {
                                     id: "1339295973935026197"
                                 }
                             },
+                            {
+                                "label": `銀鴞武裝 米婭 ★★★ (限定)`,
+                                "value": `star-mia`,
+                                "description": `Star.Mia 2025-03-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_mia02",
+                                    id: "1349090157889978471"
+                                }
+                            },
+                            {
+                                "label": `白熊武裝 冬。艾妮 ★★★ (限定)`,
+                                "value": `star-annee`,
+                                "description": `Star.Annee 2025-03-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_annee01",
+                                    id: "1349090154534404106"
+                                }
+                            },
                         ])
                 )
                 
