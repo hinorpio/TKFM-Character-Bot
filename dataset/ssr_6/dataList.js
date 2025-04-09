@@ -20,6 +20,9 @@ const niCaesar = require('./character/niCaesar.js');
 const fKana = require('./character/fKana.js');
 const starMia = require('./character/starMia.js');
 const starAnnee = require('./character/starAnnee.js');
+const bedard = require('./character/bedard.js');
+const cNoel = require('./character/cNoel.js');
+const eunice = require('./character/eunice.js');
 
 module.exports = {
     'd-minayomi': dMinayomi,
@@ -44,4 +47,7 @@ module.exports = {
     'f-kana': fKana,
     'star-mia': starMia,
     'star-annee': starAnnee,
+    'bedard': bedard,
+    'c-noel': cNoel,
+    'eunice': eunice,
 }

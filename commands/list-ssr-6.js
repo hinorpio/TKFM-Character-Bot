@@ -11,7 +11,7 @@ module.exports = {
             if(util.checkRole(interaction, interaction.member._roles)){
                 const embed = new EmbedBuilder()
                     .setColor(0xefaadd)
-                    .setTitle("**SSR** 角色列表 (2024 夏日活動後 ~ Now)")
+                    .setTitle("**SSR** 角色列表 (2024 夏日活動後 ~ 啦啦隊)")
                     .setDescription("真是的, 你這個笨蛋, 腦子只記色色的事, 就記不著其他東西了嗎? 每次都只會麻煩本喵幫你找\n\n算了, 跟笨蛋說教還不如直接幫你找好了, 聽好了, 要本喵幫忙找人時, 就在下面選擇你要找的人, 例如要找巴爾的話, 就選擇「魔王 巴爾 ★★★」, 本喵就會把她的資料找給你看\n\n本喵這次講的那麼直白, 你這笨蛋可要記好了!")
                     
                 const list = new ActionRowBuilder().setComponents(
@@ -237,6 +237,36 @@ module.exports = {
                                 "emoji": {
                                     name: "face_annee01",
                                     id: "1349090154534404106"
+                                }
+                            },
+                            {
+                                "label": `甜蜜寶貝 萊爾貝妲 ★★★ (限定)`,
+                                "value": `bedard`,
+                                "description": `Bedard 2025-04-01`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_bedard01",
+                                    id: "1359673782431912016"
+                                }
+                            },
+                            {
+                                "label": `躍動之星 黑白諾艾莉 ★★★ (限定)`,
+                                "value": `c-noel`,
+                                "description": `C.Noel 2025-04-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noel04",
+                                    id: "1359673789687795982"
+                                }
+                            },
+                            {
+                                "label": `啦啦隊長 尤妮思 ★★★ (限定)`,
+                                "value": `eunice`,
+                                "description": `eunice 2025-04-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_eunice01",
+                                    id: "1359673786416369856"
                                 }
                             },
                         ])
