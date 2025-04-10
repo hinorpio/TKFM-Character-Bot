@@ -255,8 +255,8 @@ module.exports = {
                                 "description": `C.Noel 2025-04-09`,
                                 "default": false,
                                 "emoji": {
-                                    name: "face_noel04",
-                                    id: "1359673789687795982"
+                                    name: "face_noel05",
+                                    id: "1359681704784298245"
                                 }
                             },
                             {
