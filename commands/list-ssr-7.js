@@ -39,6 +39,46 @@ module.exports = {
                                     id: "1370215950896595025"
                                 }
                             },
+                            {
+                                "label": `盛暑沁夏 伊布力斯 ★★★ (限定)`,
+                                "value": `ss-iblis`,
+                                "description": `SS.Iblis 2025-06-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_iblis10",
+                                    id: "1382206163885621281"
+                                }
+                            },
+                            {
+                                "label": `夏日 希依 ★★★ (限定)`,
+                                "value": `s-evie`,
+                                "description": `S.Evie 2025-06-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ce03",
+                                    id: "1382206005856833627"
+                                }
+                            },
+                            {
+                                "label": `夏日 諾蕾蒂 ★★★ (限定)`,
+                                "value": `s-noma`,
+                                "description": `S.Noma 2025-06-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noma02",
+                                    id: "1382206074416791562"
+                                }
+                            },
+                            {
+                                "label": `怒濤魔鯊 芙紐絲 ★★★ (限定)`,
+                                "value": `forneusa`,
+                                "description": `Forneusa 2025-06-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_forneusa01",
+                                    id: "1382205878509375559"
+                                }
+                            },
                         ])
                 )
                 
