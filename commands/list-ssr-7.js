@@ -79,6 +79,16 @@ module.exports = {
                                     id: "1382205878509375559"
                                 }
                             },
+                            {
+                                "label": `聖劍覺醒 神田綾音 ★★★ (限定)`,
+                                "value": `bu-ayane`,
+                                "description": `Bu.Ayane 2025-06-25`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ayane05",
+                                    id: "1390268364655693914"
+                                }
+                            },
                         ])
                 )
                 

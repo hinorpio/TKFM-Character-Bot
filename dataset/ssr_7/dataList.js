@@ -4,6 +4,7 @@ const ssIblis = require('./character/ssIblis.js');
 const sEvie = require('./character/sEvie.js');
 const sNoma = require('./character/sNoma.js');
 const forneusa = require('./character/forneusa.js');
+const buAyane = require('./character/buAyane.js');
 
 module.exports = {
     'mom-daphne': momDaphne,
@@ -12,4 +13,5 @@ module.exports = {
     's-evie': sEvie,
     's-noma': sNoma,
     'forneusa': forneusa,
+    'bu-ayane': buAyane,
 }
