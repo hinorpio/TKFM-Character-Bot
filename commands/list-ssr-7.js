@@ -89,6 +89,26 @@ module.exports = {
                                     id: "1390268364655693914"
                                 }
                             },
+                            {
+                                "label": `天際領航員 星空奈奈美 ★★★ (限定)`,
+                                "value": `sky-nanami`,
+                                "description": `Sky.Nanami 2025-07-216`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nanami03",
+                                    id: "1394883081747562506"
+                                }
+                            },
+                            {
+                                "label": `機長 巴爾 ★★★ (限定)`,
+                                "value": `sky-baal`,
+                                "description": `Sky.Baal 2025-07-216`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_baal11",
+                                    id: "1394883077842407525"
+                                }
+                            },
                         ])
                 )
                 
