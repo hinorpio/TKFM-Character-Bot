@@ -92,7 +92,7 @@ module.exports = {
                             {
                                 "label": `天際領航員 星空奈奈美 ★★★ (限定)`,
                                 "value": `sky-nanami`,
-                                "description": `Sky.Nanami 2025-07-216`,
+                                "description": `Sky.Nanami 2025-07-16`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_nanami03",
@@ -102,7 +102,7 @@ module.exports = {
                             {
                                 "label": `機長 巴爾 ★★★ (限定)`,
                                 "value": `sky-baal`,
-                                "description": `Sky.Baal 2025-07-216`,
+                                "description": `Sky.Baal 2025-07-16`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_baal11",
