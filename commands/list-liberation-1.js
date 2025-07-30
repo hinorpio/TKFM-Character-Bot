@@ -150,6 +150,26 @@ module.exports = {
                                     id: "1140018241545195650"
                                 }
                             },
+                            {
+                                "label": `適格者 娜娜 ★★★ (限定)`,
+                                "value": `c1-nana`,
+                                "description": `C1.Nana 2022-09-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nana11",
+                                    id: "1140018259341627434"
+                                }
+                            },
+                            {
+                                "label": `碧波白喵 娜娜 ★★★ (限定)`,
+                                "value": `o-nana`,
+                                "description": `O.Nana 2023-07-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nana15",
+                                    id: "1140021913998086184"
+                                }
+                            },
                         ])
                 )
 

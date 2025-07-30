@@ -11,6 +11,8 @@ const fBaal = require('./character/fBaal.js');
 const noel = require('./character/noel.js');
 const bIblis = require('./character/bIblis.js');
 const ichika = require('./character/ichika.js');
+const c1Nana = require('./character/c1Nana.js');
+const oNana = require('./character/oNana.js');
 
 module.exports = {
     'baal': baal,
@@ -26,4 +28,6 @@ module.exports = {
     'noel': noel,
     'b-iblis': bIblis,
     'ichika': ichika,
+    'c1-nana': c1Nana,
+    'o-nana': oNana,
 }
