@@ -109,6 +109,26 @@ module.exports = {
                                     id: "1394883077842407525"
                                 }
                             },
+                            {
+                                "label": `白衣天使 露露 ★★★ (限定)`,
+                                "value": `n-lulu`,
+                                "description": `N.Lulu 2025-08-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lulu15",
+                                    id: "1404056607033135246"
+                                }
+                            },
+                            {
+                                "label": `護士 優璃 ★★★ (限定)`,
+                                "value": `yuri`,
+                                "description": `Yuri 2025-08-13`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_yuri01",
+                                    id: "1404056609910685726"
+                                }
+                            },
                         ])
                 )
                 

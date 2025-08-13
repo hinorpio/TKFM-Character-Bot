@@ -7,6 +7,8 @@ const forneusa = require('./character/forneusa.js');
 const buAyane = require('./character/buAyane.js');
 const skyNanami = require('./character/skyNanami.js');
 const skyBaal = require('./character/skyBaal.js');
+const nLulu = require('./character/nLulu.js');
+const yuri = require('./character/yuri.js');
 
 module.exports = {
     'mom-daphne': momDaphne,
@@ -18,4 +20,6 @@ module.exports = {
     'bu-ayane': buAyane,
     'sky-nanami': skyNanami,
     'sky-baal': skyBaal,
+    'n-lulu': nLulu,
+    'yuri': yuri,
 }
