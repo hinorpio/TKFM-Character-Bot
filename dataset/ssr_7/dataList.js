@@ -9,6 +9,9 @@ const skyNanami = require('./character/skyNanami.js');
 const skyBaal = require('./character/skyBaal.js');
 const nLulu = require('./character/nLulu.js');
 const yuri = require('./character/yuri.js');
+const lAyane = require('./character/lAyane.js');
+const ria = require('./character/ria.js');
+const gBritney = require('./character/gBritney.js');
 
 module.exports = {
     'mom-daphne': momDaphne,
@@ -22,4 +25,7 @@ module.exports = {
     'sky-baal': skyBaal,
     'n-lulu': nLulu,
     'yuri': yuri,
+    'l-ayane': lAyane,
+    'ria': ria,
+    'g-britney': gBritney,
 }

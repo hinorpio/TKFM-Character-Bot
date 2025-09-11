@@ -129,6 +129,36 @@ module.exports = {
                                     id: "1404056609910685726"
                                 }
                             },
+                            {
+                                "label": `悠閒生活 神田綾音 ★★★ (限定)`,
+                                "value": `l-ayane`,
+                                "description": `L.Ayane 2025-09-10`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ayane06",
+                                    id: "1415534720581636309"
+                                }
+                            },
+                            {
+                                "label": `精英白領 神田莉央 ★★★ (限定)`,
+                                "value": `ria`,
+                                "description": `Ria 2025-09-10`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ria01",
+                                    id: "1415534727481528331"
+                                }
+                            },
+                            {
+                                "label": `俏皮辣妹 布蘭妮 ★★★ (限定)`,
+                                "value": `g-britney`,
+                                "description": `G.Britney 2025-09-10`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_britney05",
+                                    id: "1415534724776202251"
+                                }
+                            },
                         ])
                 )
                 
