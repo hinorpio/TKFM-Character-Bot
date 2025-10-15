@@ -159,6 +159,26 @@ module.exports = {
                                     id: "1415534724776202251"
                                 }
                             },
+                            {
+                                "label": `好色兔兔 達芙妮 ★★★ (限定)`,
+                                "value": `h-mom-daphne`,
+                                "description": `H.MomDaphne 2025-10-15`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_daphne03",
+                                    id: "1427822621780873237"
+                                }
+                            },
+                            {
+                                "label": `狂妄雌仙 莉莉諾 ★★★ (限定)`,
+                                "value": `lilinor`,
+                                "description": `Lilinor 2025-10-15`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lilinor01",
+                                    id: "1427822625056358493"
+                                }
+                            },
                         ])
                 )
                 

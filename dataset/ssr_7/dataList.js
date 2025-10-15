@@ -12,6 +12,8 @@ const yuri = require('./character/yuri.js');
 const lAyane = require('./character/lAyane.js');
 const ria = require('./character/ria.js');
 const gBritney = require('./character/gBritney.js');
+const hMomDaphne = require('./character/hMomDaphne.js');
+const lilinor = require('./character/lilinor.js');
 
 module.exports = {
     'mom-daphne': momDaphne,
@@ -28,4 +30,6 @@ module.exports = {
     'l-ayane': lAyane,
     'ria': ria,
     'g-britney': gBritney,
+    'h-mom-daphne': hMomDaphne,
+    'lilinor': lilinor,
 }
