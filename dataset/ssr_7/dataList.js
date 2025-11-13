@@ -14,6 +14,8 @@ const ria = require('./character/ria.js');
 const gBritney = require('./character/gBritney.js');
 const hMomDaphne = require('./character/hMomDaphne.js');
 const lilinor = require('./character/lilinor.js');
+const mSalucia = require('./character/mSalucia.js');
+const lutty = require('./character/lutty.js');
 
 module.exports = {
     'mom-daphne': momDaphne,
@@ -32,4 +34,6 @@ module.exports = {
     'g-britney': gBritney,
     'h-mom-daphne': hMomDaphne,
     'lilinor': lilinor,
+    'm-salucia': mSalucia,
+    'lutty': lutty,
 }

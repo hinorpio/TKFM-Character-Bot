@@ -179,6 +179,26 @@ module.exports = {
                                     id: "1427822625056358493"
                                 }
                             },
+                            {
+                                "label": `優雅女僕 賽露西亞 ★★★ (限定)`,
+                                "value": `m-salucia`,
+                                "description": `M.Salucia 2025-11-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_salucia09",
+                                    id: "1438148073749610640"
+                                }
+                            },
+                            {
+                                "label": `精靈女僕 露媞 ★★★ (限定)`,
+                                "value": `lutty`,
+                                "description": `Lutty 2025-11-12`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lutty01",
+                                    id: "1438148040866140292"
+                                }
+                            },
                         ])
                 )
                 
