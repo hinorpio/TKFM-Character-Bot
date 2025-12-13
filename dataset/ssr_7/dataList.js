@@ -16,6 +16,10 @@ const hMomDaphne = require('./character/hMomDaphne.js');
 const lilinor = require('./character/lilinor.js');
 const mSalucia = require('./character/mSalucia.js');
 const lutty = require('./character/lutty.js');
+const fifthIblis = require('./character/5Iblis.js');
+const fifthSatan = require('./character/5Satan.js');
+const fifthBaal = require('./character/5Baal.js');
+const fifthNana = require('./character/5Nana.js');
 
 module.exports = {
     'mom-daphne': momDaphne,
@@ -36,4 +40,8 @@ module.exports = {
     'lilinor': lilinor,
     'm-salucia': mSalucia,
     'lutty': lutty,
+    '5-iblis': fifthIblis,
+    '5-satan': fifthSatan,
+    '5-baal': fifthBaal,
+    '5-nana': fifthNana,
 }
