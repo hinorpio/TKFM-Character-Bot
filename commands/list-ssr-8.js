@@ -39,6 +39,36 @@ module.exports = {
                                     id: "1458458929578119289"
                                 }
                             },
+                            {
+                                "label": `花嫁 艾可 ★★★ (限定)`,
+                                "value": `b-aiko`,
+                                "description": `B.Aiko 2026-02-04`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ik13",
+                                    id: "1468549314690416763"
+                                }
+                            },
+                            {
+                                "label": `花嫁 神田綾音 ★★★ (限定)`,
+                                "value": `b-ayane`,
+                                "description": `B.Ayane 2026-02-04`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ayane07",
+                                    id: "1468549347561181287"
+                                }
+                            },
+                            {
+                                "label": `花嫁 蘭兒 ★★★ (限定)`,
+                                "value": `b-lana`,
+                                "description": `B.Lana 2026-02-04`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lana08",
+                                    id: "1468549329693446167"
+                                }
+                            },
                         ])
                 )
                 
