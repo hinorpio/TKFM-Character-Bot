@@ -3,6 +3,8 @@ const mUsagihime = require('./character/mUsagihime.js');
 const bAiko = require('./character/bAiko.js')
 const bAyane = require('./character/bAyane.js')
 const bLana = require('./character/bLana.js')
+const cosYanko = require('./character/cosYanko.js')
+const cosMomo = require('./character/cosMomo.js')
 
 module.exports = {
     'b-shizuka': bShizuka,
@@ -10,4 +12,6 @@ module.exports = {
     'b-aiko': bAiko,
     'b-ayane': bAyane,
     'b-lana': bLana,
+    'cos-yanko': cosYanko,
+    'cos-momo': cosMomo,
 }

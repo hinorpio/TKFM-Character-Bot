@@ -69,6 +69,26 @@ module.exports = {
                                     id: "1468549329693446167"
                                 }
                             },
+                            {
+                                "label": `浪行魅狐 小泱 ★★★ (限定)`,
+                                "value": `cos-yanko`,
+                                "description": `Cos.Yanko 2026-03-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_yanko01",
+                                    id: "1481760975949402163"
+                                }
+                            },
+                            {
+                                "label": `冷豔鋒刃 毛毛 ★★★ (限定)`,
+                                "value": `cos-momo`,
+                                "description": `Cos.Momo 2026-03-11`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_momo02",
+                                    id: "1481760960258773032"
+                                }
+                            },
                         ])
                 )
                 
