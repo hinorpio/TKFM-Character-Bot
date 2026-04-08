@@ -89,6 +89,26 @@ module.exports = {
                                     id: "1481760960258773032"
                                 }
                             },
+                            {
+                                "label": `神諭宣告 菲歐菈 ★★★ (限定)`,
+                                "value": `egypt-fiora`,
+                                "description": `Egypt.Fiora 2026-04-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_fiora06",
+                                    id: "1491211933012070561"
+                                }
+                            },
+                            {
+                                "label": `強欲天使 聖米勒 ★★★ (限定)`,
+                                "value": `egypt-milae`,
+                                "description": `Egypt.Milae 2026-04-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_hshs04",
+                                    id: "1491211952134029422"
+                                }
+                            },
                         ])
                 )
                 

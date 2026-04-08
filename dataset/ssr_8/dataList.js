@@ -5,6 +5,8 @@ const bAyane = require('./character/bAyane.js')
 const bLana = require('./character/bLana.js')
 const cosYanko = require('./character/cosYanko.js')
 const cosMomo = require('./character/cosMomo.js')
+const egyptFiora = require('./character/egyptFiora.js')
+const egyptMilae = require('./character/egyptMilae.js')
 
 module.exports = {
     'b-shizuka': bShizuka,
@@ -14,4 +16,6 @@ module.exports = {
     'b-lana': bLana,
     'cos-yanko': cosYanko,
     'cos-momo': cosMomo,
+    'egypt-fiora': egyptFiora,
+    'egypt-milae': egyptMilae,
 }
