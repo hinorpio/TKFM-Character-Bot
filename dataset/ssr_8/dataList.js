@@ -7,6 +7,8 @@ const cosYanko = require('./character/cosYanko.js')
 const cosMomo = require('./character/cosMomo.js')
 const egyptFiora = require('./character/egyptFiora.js')
 const egyptMilae = require('./character/egyptMilae.js')
+const mMomDaphne = require('./character/mMomDaphne.js')
+const nali = require('./character/nali.js')
 
 module.exports = {
     'b-shizuka': bShizuka,
@@ -18,4 +20,6 @@ module.exports = {
     'cos-momo': cosMomo,
     'egypt-fiora': egyptFiora,
     'egypt-milae': egyptMilae,
+    'm-momDaphne': mMomDaphne,
+    'nali': nali,
 }

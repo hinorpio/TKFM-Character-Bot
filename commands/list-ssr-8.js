@@ -109,6 +109,26 @@ module.exports = {
                                     id: "1491211952134029422"
                                 }
                             },
+                            {
+                                "label": `魔法少女 達芙妮 ★★★ (限定)`,
+                                "value": `m-momDaphne`,
+                                "description": `M.MomDaphne 2026-05-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_daphne04",
+                                    id: "1502057598629707897"
+                                }
+                            },
+                            {
+                                "label": `邪惡之星 娜莉 ★★★ (限定)`,
+                                "value": `nali`,
+                                "description": `Nali 2026-05-06`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nali01",
+                                    id: "1502057615545340057"
+                                }
+                            },
                         ])
                 )
                 
