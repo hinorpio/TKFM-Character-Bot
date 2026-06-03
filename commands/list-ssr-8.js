@@ -129,6 +129,46 @@ module.exports = {
                                     id: "1502057615545340057"
                                 }
                             },
+                            {
+                                "label": `龍宮之主 乙姬 ★★★ (限定)`,
+                                "value": `otohime`,
+                                "description": `Otohime 2026-06-03`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_otohime01",
+                                    id: "1511589501301030993"
+                                }
+                            },
+                            {
+                                "label": `夏日 布蘭妮 ★★★ (限定)`,
+                                "value": `s-britney`,
+                                "description": `S.Britney 2026-06-03`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_britney06",
+                                    id: "1511589494397210624"
+                                }
+                            },
+                            {
+                                "label": `夏日 星空奈奈美 ★★★ (限定)`,
+                                "value": `s-nanami`,
+                                "description": `S.Nanami 2026-06-03`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_nanami04",
+                                    id: "1511589498981449749"
+                                }
+                            },
+                            {
+                                "label": `魔導巨獸 莉可菈 ★★★ (限定)`,
+                                "value": `legora`,
+                                "description": `Legora 2026-06-03`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_legora01",
+                                    id: "1511589496519655525"
+                                }
+                            },
                         ])
                 )
                 

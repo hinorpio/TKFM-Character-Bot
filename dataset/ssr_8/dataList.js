@@ -9,6 +9,10 @@ const egyptFiora = require('./character/egyptFiora.js')
 const egyptMilae = require('./character/egyptMilae.js')
 const mMomDaphne = require('./character/mMomDaphne.js')
 const nali = require('./character/nali.js')
+const otohime = require('./character/otohime.js')
+const sBritney = require('./character/sBritney.js')
+const sNanami = require('./character/sNanami.js')
+const legora = require('./character/legora.js')
 
 module.exports = {
     'b-shizuka': bShizuka,
@@ -22,4 +26,8 @@ module.exports = {
     'egypt-milae': egyptMilae,
     'm-momDaphne': mMomDaphne,
     'nali': nali,
+    'otohime': otohime,
+    's-britney': sBritney,
+    's-nanami': sNanami,
+    'legora': legora,
 }
