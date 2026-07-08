@@ -131,6 +131,16 @@ module.exports = {
                                 }
                             },
                             {
+                                "label": `機靈古怪 賽露西亞 ★★★ (限定)`,
+                                "value": `h-salucia`,
+                                "description": `H.Salucia 2021-10-27`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_salucia02",
+                                    id: "1140014919123730442"
+                                }
+                            },
+                            {
                                 "label": `花嫁 伊布力斯 ★★★ (限定)`,
                                 "value": `b-iblis`,
                                 "description": `B.Iblis 2022-02-16`,
