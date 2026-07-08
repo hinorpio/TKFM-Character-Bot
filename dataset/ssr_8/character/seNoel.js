@@ -6,7 +6,7 @@ module.exports = {
     "fields": [
         {
             "name": `<:5flower:981031925168865290> 完全體數據`,
-            "value": `HP：1,166,552 | ATK：242,699`
+            "value": `HP：3,791,294 | ATK：788,773`
         },
         {
             "name": `<:detail_skill:933339968967933963> 心動♡能量`,
