@@ -169,6 +169,26 @@ module.exports = {
                                     id: "1511589496519655525"
                                 }
                             },
+                            {
+                                "label": `直播限定 黑白諾艾莉 ★★★ (限定)`,
+                                "value": `se-noel`,
+                                "description": `SE.Noel 2026-07-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noel06",
+                                    id: "1524433154629435592"
+                                }
+                            },
+                            {
+                                "label": `精靈偶像 莉莉艾爾莎 ★★★ (限定)`,
+                                "value": `lilyelsa`,
+                                "description": `LilyElsa 2026-07-08`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_lilyelsa01",
+                                    id: "1524433123725676767"
+                                }
+                            },
                         ])
                 )
                 
@@ -192,4 +212,3 @@ module.exports = {
         }
     }
 }
-
