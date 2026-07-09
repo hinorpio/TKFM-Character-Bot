@@ -9,11 +9,11 @@ const chizuru = require('./character/chizuru.js');
 const milae = require('./character/milae.js');
 const fBaal = require('./character/fBaal.js');
 const noel = require('./character/noel.js');
-const hSalucia = require('./character/hSalucia.js');
 const bIblis = require('./character/bIblis.js');
 const ichika = require('./character/ichika.js');
 const c1Nana = require('./character/c1Nana.js');
 const oNana = require('./character/oNana.js');
+const hSalucia = require('./character/hSalucia.js');
 
 module.exports = {
     'baal': baal,
@@ -27,9 +27,9 @@ module.exports = {
     'milae': milae,
     'f-baal': fBaal,
     'noel': noel,
-    'h-salucia': hSalucia,
     'b-iblis': bIblis,
     'ichika': ichika,
     'c1-nana': c1Nana,
     'o-nana': oNana,
+    'h-salucia': hSalucia,
 }
