@@ -189,6 +189,26 @@ module.exports = {
                                     id: "1524433123725676767"
                                 }
                             },
+                            {
+                                "label": `月下狂狼 諾蕾蒂 ★★★ (限定)`,
+                                "value": `w-noma`,
+                                "description": `W.Noma 2026-08-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_noma03",
+                                    id: "1534460090172575795"
+                                }
+                            },
+                            {
+                                "label": `犬犬冒險者 希耶兒 ★★★ (限定)`,
+                                "value": `ciel`,
+                                "description": `Furry 2026-08-05`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_ciel01",
+                                    id: "1534460108594221056"
+                                }
+                            },
                         ])
                 )
                 
