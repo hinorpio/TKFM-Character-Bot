@@ -192,7 +192,7 @@ module.exports = {
                             {
                                 "label": `月下狂狼 諾蕾蒂 ★★★ (限定)`,
                                 "value": `w-noma`,
-                                "description": `w_noma 2026-08-05`,
+                                "description": `W.Noma 2026-08-05`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_noma03",
@@ -202,7 +202,7 @@ module.exports = {
                             {
                                 "label": `犬犬冒險者 希耶兒 ★★★ (限定)`,
                                 "value": `ciel`,
-                                "description": `ciel 2026-08-05`,
+                                "description": `Ciel 2026-08-05`,
                                 "default": false,
                                 "emoji": {
                                     name: "face_ciel01",
