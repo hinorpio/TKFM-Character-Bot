@@ -17,6 +17,9 @@ const seNoel = require('./character/seNoel.js')
 const lilyElsa = require('./character/lilyElsa.js')
 const wNoma = require('./character/wNoma.js')
 const ciel = require('./character/ciel.js')
+const calibur = require('./character/calibur.js')
+const vita = require('./character/vita.js')
+const fujihana = require('./character/fujihana.js')
 
 module.exports = {
     'b-shizuka': bShizuka,
@@ -38,4 +41,7 @@ module.exports = {
     'lilyelsa': lilyElsa,
     'w-noma': wNoma,
     'ciel': ciel,
+    'calibur': calibur,
+    'vita': vita,
+    'fujihana': fujihana,
 }

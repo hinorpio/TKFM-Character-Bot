@@ -209,6 +209,36 @@ module.exports = {
                                     id: "1534460108594221056"
                                 }
                             },
+                            {
+                                "label": `傳說聖劍 卡利伯 ★★★ (限定)`,
+                                "value": `calibur`,
+                                "description": `Calibur 2026-09-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_calibur01",
+                                    id: "1547379039130624141"
+                                }
+                            },
+                            {
+                                "label": `終焉魔劍 薇塔 ★★★ (限定)`,
+                                "value": `vita`,
+                                "description": `Vita 2026-09-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_vita01",
+                                    id: "1547379089386504233"
+                                }
+                            },
+                            {
+                                "label": `浮世妖刀 藤花 ★★★ (限定)`,
+                                "value": `fujihana`,
+                                "description": `Fujihana 2026-09-09`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_fujihana01",
+                                    id: "1547379086924452010"
+                                }
+                            },
                         ])
                 )
                 
