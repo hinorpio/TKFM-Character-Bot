@@ -239,6 +239,26 @@ module.exports = {
                                     id: "1547379086924452010"
                                 }
                             },
+                            {
+                                "label": `無邪小惡魔 巴爾 ★★★ (限定)`,
+                                "value": `h-baal`,
+                                "description": `H.Baal 2026-10-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_baal13",
+                                    id: "1557006806541144104"
+                                }
+                            },
+                            {
+                                "label": `不政確狼女 萊爾貝妲 ★★★ (限定)`,
+                                "value": `h-bedard`,
+                                "description": `H.Bedard 2026-10-07`,
+                                "default": false,
+                                "emoji": {
+                                    name: "face_bedard02",
+                                    id: "1557006823742242927"
+                                }
+                            },
                         ])
                 )
                 

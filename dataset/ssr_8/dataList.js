@@ -20,6 +20,8 @@ const ciel = require('./character/ciel.js')
 const calibur = require('./character/calibur.js')
 const vita = require('./character/vita.js')
 const fujihana = require('./character/fujihana.js')
+const hBaal = require('./character/hBaal.js')
+const hBedard = require('./character/hBedard.js')
 
 module.exports = {
     'b-shizuka': bShizuka,
@@ -44,4 +46,6 @@ module.exports = {
     'calibur': calibur,
     'vita': vita,
     'fujihana': fujihana,
+    'h-baal': hBaal,
+    'h-bedard': hBedard,
 }
